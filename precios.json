@@ -1,0 +1,497 @@
+{
+ "actualizado": "2026-11-06T13:00:00+00:00",
+ "estado": {
+  "jumbo": {
+   "ok": true,
+   "encontrados": 16
+  },
+  "lider": {
+   "ok": true,
+   "encontrados": 14
+  },
+  "santa": {
+   "ok": true,
+   "encontrados": 13
+  },
+  "unimarc": {
+   "ok": true,
+   "encontrados": 16
+  },
+  "tottus": {
+   "ok": true,
+   "encontrados": 14
+  }
+ },
+ "precios": {
+  "palta": {
+   "jumbo": {
+    "precio": 3690,
+    "nombre": "Palta Hass Malla 1 kg",
+    "url": "https://www.jumbo.cl/palta-hass-jumbo-malla-1-kg/p",
+    "fecha": "2026-11-06T13:00:00+00:00"
+   },
+   "lider": {
+    "precio": 2857,
+    "nombre": "Palta Hass Malla 700 g",
+    "url": "https://super.lider.cl/ip/frutas/00780953490126",
+    "fecha": "2026-11-06T13:00:00+00:00"
+   },
+   "santa": {
+    "precio": 3590,
+    "nombre": "Palta Hass Malla 1 kg",
+    "url": "https://www.santaisabel.cl/palta-hass-malla-1-kg/p",
+    "fecha": "2026-11-06T13:00:00+00:00"
+   },
+   "unimarc": {
+    "precio": 3490,
+    "nombre": "Palta hass malla 1 kg",
+    "url": "https://www.unimarc.cl/product/palta-hass-malla-1-kg",
+    "fecha": "2026-11-06T13:00:00+00:00"
+   },
+   "tottus": {
+    "precio": 2843,
+    "nombre": "Palta Hass en Malla 700 g",
+    "url": "https://www.tottus.cl/tottus-cl/articulo/110622586/palta-hass-malla-700-gr",
+    "fecha": "2026-11-06T13:00:00+00:00"
+   }
+  },
+  "platano": {
+   "jumbo": {
+    "precio": 1450,
+    "nombre": "Plátano Extra Granel",
+    "url": "https://www.jumbo.cl/platano-granel/p",
+    "fecha": "2026-11-06T13:00:00+00:00"
+   },
+   "lider": {
+    "precio": 1450,
+    "nombre": "Plátano Granel",
+    "url": "https://super.lider.cl/ip/frutas/00200014000000",
+    "fecha": "2026-11-06T13:00:00+00:00"
+   },
+   "santa": {
+    "precio": 1490,
+    "nombre": "Plátano Extra Granel",
+    "url": "https://www.santaisabel.cl/platano-granel/p",
+    "fecha": "2026-11-06T13:00:00+00:00"
+   },
+   "unimarc": {
+    "precio": 1490,
+    "nombre": "Plátano granel",
+    "url": "https://www.unimarc.cl/product/platano-kg",
+    "fecha": "2026-11-06T13:00:00+00:00"
+   },
+   "tottus": {
+    "precio": 1450,
+    "nombre": "Plátano Extra a Granel",
+    "url": "https://www.tottus.cl/tottus-cl/articulo/115828809/platano-extra",
+    "fecha": "2026-11-06T13:00:00+00:00"
+   }
+  },
+  "manzana": {
+   "jumbo": {
+    "precio": 1990,
+    "nombre": "Manzana Pink Lady Bolsa 1 kg",
+    "url": "https://www.jumbo.cl/manzana-pink-lady-bolsa-1-kilo/p",
+    "fecha": "2026-11-06T13:00:00+00:00"
+   },
+   "lider": {
+    "precio": 2190,
+    "nombre": "Manzana Royal Bolsa 1 kg",
+    "url": "https://super.lider.cl/ip/frutas/00346448981000",
+    "fecha": "2026-11-06T13:00:00+00:00"
+   },
+   "santa": {
+    "precio": 1890,
+    "nombre": "Manzana Fuji Bolsa 1 kg",
+    "url": "https://www.santaisabel.cl/manzana-fuji-bolsa-1kg-1842209/p",
+    "fecha": "2026-11-06T13:00:00+00:00"
+   },
+   "unimarc": {
+    "precio": 1990,
+    "nombre": "Manzana royal gala bolsa 1 kg",
+    "url": "https://www.unimarc.cl/product/manzana-royal-gala-bolsa-1-kg",
+    "fecha": "2026-11-06T13:00:00+00:00"
+   },
+   "tottus": {
+    "precio": 1890,
+    "nombre": "Manzana Fuji en Bolsa 1 kg",
+    "url": "https://www.tottus.cl/tottus-cl/articulo/110622456/bolsa-manzana-fuji-1kg",
+    "fecha": "2026-11-06T13:00:00+00:00"
+   }
+  },
+  "naranja": {
+   "jumbo": {
+    "precio": 1245,
+    "nombre": "Naranja Malla 2 kg",
+    "url": "https://www.jumbo.cl/naranja-2-kg/p",
+    "fecha": "2026-11-06T13:00:00+00:00"
+   },
+   "lider": {
+    "precio": 1745,
+    "nombre": "Naranja Malla 2 kg",
+    "url": "https://super.lider.cl/ip/frutas/00340072168000",
+    "fecha": "2026-11-06T13:00:00+00:00"
+   },
+   "santa": {
+    "precio": 1795,
+    "nombre": "Naranja Malla 2 kg",
+    "url": "https://www.santaisabel.cl/naranja-2-kg/p",
+    "fecha": "2026-11-06T13:00:00+00:00"
+   },
+   "unimarc": {
+    "precio": 1295,
+    "nombre": "Naranja malla 2 kg",
+    "url": "https://www.unimarc.cl/product/naranja-malla-2-kg-2",
+    "fecha": "2026-11-06T13:00:00+00:00"
+   },
+   "tottus": {
+    "precio": 1390,
+    "nombre": "Naranja en Malla 1 kg",
+    "url": "https://www.tottus.cl/tottus-cl/articulo/110622264/naranja-malla-1-kg",
+    "fecha": "2026-11-06T13:00:00+00:00"
+   }
+  },
+  "limon": {
+   "jumbo": {
+    "precio": 1590,
+    "nombre": "Limón Malla 1 kg",
+    "url": "https://www.jumbo.cl/limon-jumbo-malla-1-kg/p",
+    "fecha": "2026-11-06T13:00:00+00:00"
+   },
+   "lider": {
+    "precio": 1590,
+    "nombre": "Limón Malla 1 kg",
+    "url": "https://super.lider.cl/ip/frutas/00780465943000",
+    "fecha": "2026-11-06T13:00:00+00:00"
+   },
+   "santa": {
+    "precio": 1550,
+    "nombre": "Limón Malla 1 kg",
+    "url": "https://www.santaisabel.cl/limon-jumbo-malla-1-kg/p",
+    "fecha": "2026-11-06T13:00:00+00:00"
+   },
+   "unimarc": {
+    "precio": 1490,
+    "nombre": "Limón malla 1 kg",
+    "url": "https://www.unimarc.cl/product/limon-malla-11-unid-aprox",
+    "fecha": "2026-11-06T13:00:00+00:00"
+   },
+   "tottus": {
+    "precio": 1190,
+    "nombre": "Limón en Malla 1 kg",
+    "url": "https://www.tottus.cl/tottus-cl/articulo/110622417/limon-malla-1-kg",
+    "fecha": "2026-11-06T13:00:00+00:00"
+   }
+  },
+  "frutilla": {
+   "jumbo": {
+    "precio": 8967,
+    "nombre": "Frutilla Pote 300 g",
+    "url": "https://www.jumbo.cl/frutilla-hortifrut-pote-300-g-2/p",
+    "fecha": "2026-11-06T13:00:00+00:00"
+   },
+   "lider": {
+    "precio": 6667,
+    "nombre": "Frutillas Pote 300 g",
+    "url": "https://super.lider.cl/ip/frutas/00340028479000",
+    "fecha": "2026-11-06T13:00:00+00:00"
+   },
+   "unimarc": {
+    "precio": 9967,
+    "nombre": "Frutillas pote 300 g",
+    "url": "https://www.unimarc.cl/product/frutillas-pote-300-gr",
+    "fecha": "2026-11-06T13:00:00+00:00"
+   }
+  },
+  "cereza": {
+   "jumbo": {
+    "precio": 4990,
+    "nombre": "Cereza Exportación Granel",
+    "url": "https://www.jumbo.cl/cereza-granel-2/p",
+    "fecha": "2026-11-06T13:00:00+00:00"
+   },
+   "unimarc": {
+    "precio": 4796,
+    "nombre": "Cereza exportación, caja 2,5 kg",
+    "url": "https://www.unimarc.cl/product/cereza-maleta-cfrut-2-5-kg",
+    "fecha": "2026-11-06T13:00:00+00:00"
+   },
+   "tottus": {
+    "precio": 6580,
+    "nombre": "Cereza en Pote 500 g",
+    "url": "https://www.tottus.cl/tottus-cl/articulo/118346777/cerezas-pote-500-g",
+    "fecha": "2026-11-06T13:00:00+00:00"
+   }
+  },
+  "kiwi": {
+   "jumbo": {
+    "precio": 4290,
+    "nombre": "Kiwi Exportación Granel",
+    "url": "https://www.jumbo.cl/kiwi-granel/p",
+    "fecha": "2026-11-06T13:00:00+00:00"
+   },
+   "lider": {
+    "precio": 4190,
+    "nombre": "Kiwi Granel",
+    "url": "https://super.lider.cl/ip/frutas/00203017000000",
+    "fecha": "2026-11-06T13:00:00+00:00"
+   },
+   "unimarc": {
+    "precio": 4290,
+    "nombre": "Kiwi importado granel",
+    "url": "https://www.unimarc.cl/product/kiwi-importado-china-kg",
+    "fecha": "2026-11-06T13:00:00+00:00"
+   },
+   "tottus": {
+    "precio": 4250,
+    "nombre": "Kiwi a Granel",
+    "url": "https://www.tottus.cl/tottus-cl/articulo/116166534/kiwi",
+    "fecha": "2026-11-06T13:00:00+00:00"
+   }
+  },
+  "tomate": {
+   "jumbo": {
+    "precio": 2090,
+    "nombre": "Tomate Larga Vida Granel",
+    "url": "https://www.jumbo.cl/tomate-larga-vida-granel/p",
+    "fecha": "2026-11-06T13:00:00+00:00"
+   },
+   "lider": {
+    "precio": 2090,
+    "nombre": "Tomate Larga Vida Malla 1 kg",
+    "url": "https://super.lider.cl/ip/verduras/00780465037000",
+    "fecha": "2026-11-06T13:00:00+00:00"
+   },
+   "santa": {
+    "precio": 1990,
+    "nombre": "Tomate Larga Vida Malla 1 kg",
+    "url": "https://www.santaisabel.cl/tomate-malla-1-kg/p",
+    "fecha": "2026-11-06T13:00:00+00:00"
+   },
+   "unimarc": {
+    "precio": 2090,
+    "nombre": "Tomate malla 1 kg",
+    "url": "https://www.unimarc.cl/product/tomate-malla-1-kg",
+    "fecha": "2026-11-06T13:00:00+00:00"
+   },
+   "tottus": {
+    "precio": 1990,
+    "nombre": "Tomate Larga Vida a Granel",
+    "url": "https://www.tottus.cl/tottus-cl/articulo/116165192/tomate-larga-vida-xl",
+    "fecha": "2026-11-06T13:00:00+00:00"
+   }
+  },
+  "lechuga": {
+   "jumbo": {
+    "precio": 1190,
+    "nombre": "Lechuga Crespa Verde Bolsa",
+    "url": "https://www.jumbo.cl/lechuga-cres-verde-2039357/p",
+    "fecha": "2026-11-06T13:00:00+00:00"
+   },
+   "lider": {
+    "precio": 1245,
+    "nombre": "Lechuga Costina Bolsa 2 un.",
+    "url": "https://super.lider.cl/ip/verduras/00780461085110",
+    "fecha": "2026-11-06T13:00:00+00:00"
+   },
+   "santa": {
+    "precio": 1345,
+    "nombre": "Lechuga Escarola Bandeja 2 un.",
+    "url": "https://www.santaisabel.cl/lechuga-escarola-jumbo-2-unid/p",
+    "fecha": "2026-11-06T13:00:00+00:00"
+   },
+   "unimarc": {
+    "precio": 1163,
+    "nombre": "Lechuga costina corazón 3 un.",
+    "url": "https://www.unimarc.cl/product/lechuga-costina-corazon-3-u",
+    "fecha": "2026-11-06T13:00:00+00:00"
+   },
+   "tottus": {
+    "precio": 1100,
+    "nombre": "Lechuga Costina",
+    "url": "https://www.tottus.cl/tottus-cl/articulo/110622618/lechuga-costina",
+    "fecha": "2026-11-06T13:00:00+00:00"
+   }
+  },
+  "cebolla": {
+   "jumbo": {
+    "precio": 1990,
+    "nombre": "Cebolla Granel",
+    "url": "https://www.jumbo.cl/cebolla-granel/p",
+    "fecha": "2026-11-06T13:00:00+00:00"
+   },
+   "lider": {
+    "precio": 1790,
+    "nombre": "Cebolla Blanca Malla 1 kg",
+    "url": "https://super.lider.cl/ip/verduras/00340007720000",
+    "fecha": "2026-11-06T13:00:00+00:00"
+   },
+   "santa": {
+    "precio": 1950,
+    "nombre": "Cebolla Granel",
+    "url": "https://www.santaisabel.cl/cebolla-granel/p",
+    "fecha": "2026-11-06T13:00:00+00:00"
+   },
+   "unimarc": {
+    "precio": 2050,
+    "nombre": "Cebolla malla 1 kg",
+    "url": "https://www.unimarc.cl/product/cebolla-malla-1-kilo",
+    "fecha": "2026-11-06T13:00:00+00:00"
+   },
+   "tottus": {
+    "precio": 1850,
+    "nombre": "Cebolla a Granel",
+    "url": "https://www.tottus.cl/tottus-cl/articulo/116163638/cebolla-granel",
+    "fecha": "2026-11-06T13:00:00+00:00"
+   }
+  },
+  "papa": {
+   "jumbo": {
+    "precio": 1725,
+    "nombre": "Papa Malla 2 kg",
+    "url": "https://www.jumbo.cl/papas-jumbo-malla-2-kg/p",
+    "fecha": "2026-11-06T13:00:00+00:00"
+   },
+   "lider": {
+    "precio": 1845,
+    "nombre": "Papa Malla 2 kg",
+    "url": "https://super.lider.cl/ip/verduras/00780390400001",
+    "fecha": "2026-11-06T13:00:00+00:00"
+   },
+   "santa": {
+    "precio": 1975,
+    "nombre": "Papa Malla 2 kg",
+    "url": "https://www.santaisabel.cl/papas-malla-2-kg/p",
+    "fecha": "2026-11-06T13:00:00+00:00"
+   },
+   "unimarc": {
+    "precio": 1745,
+    "nombre": "Papas pequeñas malla 2 kg",
+    "url": "https://www.unimarc.cl/product/papas-semillon-malla-2-kg",
+    "fecha": "2026-11-06T13:00:00+00:00"
+   },
+   "tottus": {
+    "precio": 1945,
+    "nombre": "Papa en Malla 2 kg",
+    "url": "https://www.tottus.cl/tottus-cl/articulo/110624221/papa-malla-2kg",
+    "fecha": "2026-11-06T13:00:00+00:00"
+   }
+  },
+  "zanahoria": {
+   "jumbo": {
+    "precio": 1250,
+    "nombre": "Zanahoria Granel",
+    "url": "https://www.jumbo.cl/zanahoria-jumbo-granel/p",
+    "fecha": "2026-11-06T13:00:00+00:00"
+   },
+   "santa": {
+    "precio": 1450,
+    "nombre": "Zanahoria Bolsa 1 kg",
+    "url": "https://www.santaisabel.cl/zanahoria-1-kg/p",
+    "fecha": "2026-11-06T13:00:00+00:00"
+   },
+   "unimarc": {
+    "precio": 1590,
+    "nombre": "Zanahoria bolsa 1 kg",
+    "url": "https://www.unimarc.cl/product/zanahoria-bolsa-1-kg-2",
+    "fecha": "2026-11-06T13:00:00+00:00"
+   },
+   "tottus": {
+    "precio": 1450,
+    "nombre": "Zanahoria en Bolsa 1 kg",
+    "url": "https://www.tottus.cl/tottus-cl/articulo/110623577/zanahoria-bolsa-1kg",
+    "fecha": "2026-11-06T13:00:00+00:00"
+   }
+  },
+  "zapallo": {
+   "jumbo": {
+    "precio": 850,
+    "nombre": "Zapallo Italiano 1 un.",
+    "url": "https://www.jumbo.cl/zapallo-italiano-jumbo-unid/p",
+    "fecha": "2026-11-06T13:00:00+00:00"
+   },
+   "lider": {
+    "precio": 890,
+    "nombre": "Zapallo Italiano 1 un.",
+    "url": "https://super.lider.cl/ip/verduras/00780464422003",
+    "fecha": "2026-11-06T13:00:00+00:00"
+   },
+   "santa": {
+    "precio": 950,
+    "nombre": "Zapallo Italiano 1 un.",
+    "url": "https://www.santaisabel.cl/zapallo-italiano-unid/p",
+    "fecha": "2026-11-06T13:00:00+00:00"
+   },
+   "unimarc": {
+    "precio": 950,
+    "nombre": "Zapallo italiano 1 un.",
+    "url": "https://www.unimarc.cl/product/zapallo-italiano-1-u",
+    "fecha": "2026-11-06T13:00:00+00:00"
+   },
+   "tottus": {
+    "precio": 890,
+    "nombre": "Zapallo Italiano",
+    "url": "https://www.tottus.cl/tottus-cl/articulo/110622632/zapallo-italiano",
+    "fecha": "2026-11-06T13:00:00+00:00"
+   }
+  },
+  "pepino": {
+   "jumbo": {
+    "precio": 850,
+    "nombre": "Pepino Ensalada 1 un.",
+    "url": "https://www.jumbo.cl/pepino-ensalada-jumbo-unid/p",
+    "fecha": "2026-11-06T13:00:00+00:00"
+   },
+   "lider": {
+    "precio": 850,
+    "nombre": "Pepino Ensalada 1 un.",
+    "url": "https://super.lider.cl/ip/verduras/00780467517004",
+    "fecha": "2026-11-06T13:00:00+00:00"
+   },
+   "santa": {
+    "precio": 950,
+    "nombre": "Pepino Ensalada 1 un.",
+    "url": "https://www.santaisabel.cl/pepino-ensalada-jumbo-unid/p",
+    "fecha": "2026-11-06T13:00:00+00:00"
+   },
+   "unimarc": {
+    "precio": 890,
+    "nombre": "Pepino ensalada 1 un.",
+    "url": "https://www.unimarc.cl/product/pepino-ensalada-1-u",
+    "fecha": "2026-11-06T13:00:00+00:00"
+   }
+  },
+  "brocoli": {
+   "jumbo": {
+    "precio": 1590,
+    "nombre": "Brócoli Films 1 un.",
+    "url": "https://www.jumbo.cl/brocoli-jumbo-unid/p",
+    "fecha": "2026-11-06T13:00:00+00:00"
+   },
+   "lider": {
+    "precio": 1590,
+    "nombre": "Brócoli 1 un.",
+    "url": "https://super.lider.cl/ip/verduras/00780408600001",
+    "fecha": "2026-11-06T13:00:00+00:00"
+   },
+   "santa": {
+    "precio": 1490,
+    "nombre": "Brócoli Films 1 un.",
+    "url": "https://www.santaisabel.cl/brocoli-unid/p",
+    "fecha": "2026-11-06T13:00:00+00:00"
+   },
+   "unimarc": {
+    "precio": 1590,
+    "nombre": "Brócoli nacional 1 un.",
+    "url": "https://www.unimarc.cl/product/brocoli-nacional-1-u",
+    "fecha": "2026-11-06T13:00:00+00:00"
+   },
+   "tottus": {
+    "precio": 1290,
+    "nombre": "Brócoli",
+    "url": "https://www.tottus.cl/tottus-cl/articulo/110623225/brocoli",
+    "fecha": "2026-11-06T13:00:00+00:00"
+   }
+  }
+ }
+}

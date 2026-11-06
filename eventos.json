@@ -1,0 +1,78 @@
+{
+ "actualizado": "2026-11-06T13:00:00+00:00",
+ "eventos": [
+  {
+   "titulo": "Elektra, de Richard Strauss",
+   "tipo": "opera",
+   "genero": "Ópera",
+   "lugar": "Teatro Municipal de Santiago",
+   "fechas": [
+    "2026-11-17T18:00",
+    "2026-11-20T18:00",
+    "2026-11-23T18:00",
+    "2026-11-26T18:00",
+    "2026-11-29T17:00"
+   ],
+   "url": "https://municipal.cl/espectaculos/elektra-de-richard-strauss-2026/",
+   "fuente": "Teatro Municipal"
+  },
+  {
+   "titulo": "Colombia le canta a Chile",
+   "tipo": "musica",
+   "genero": "Música popular colombiana",
+   "lugar": "Teatro Caupolicán, Santiago Centro",
+   "fechas": [
+    "2026-11-07"
+   ],
+   "url": "https://www.puntoticket.com/colombia-le-canta-a-chile-2026",
+   "fuente": "Puntoticket"
+  },
+  {
+   "titulo": "Def Leppard, Live 2026, con Extreme como invitado",
+   "tipo": "musica",
+   "genero": "Rock",
+   "lugar": "Santander Arena, Santiago Centro",
+   "fechas": [
+    "2026-11-08"
+   ],
+   "url": "https://www.puntoticket.com/def-leppard",
+   "fuente": "Puntoticket"
+  },
+  {
+   "titulo": "Los Tres, Unplugged 30 años",
+   "tipo": "musica",
+   "genero": "Rock",
+   "lugar": "Santander Arena, Santiago Centro",
+   "fechas": [
+    "2026-11-14",
+    "2026-11-15"
+   ],
+   "url": "https://www.puntoticket.com/los-tres",
+   "fuente": "Puntoticket"
+  },
+  {
+   "titulo": "Deep Purple",
+   "tipo": "musica",
+   "genero": "Hard rock",
+   "lugar": "Santander Arena, Santiago Centro",
+   "fechas": [
+    "2026-12-08"
+   ],
+   "url": "https://www.puntoticket.com/deep-purple",
+   "fuente": "Puntoticket"
+  },
+  {
+   "titulo": "Comienzo",
+   "tipo": "teatro",
+   "genero": "Teatro",
+   "lugar": "Teatro Zoco, Lo Barnechea",
+   "fechas": [
+    "2026-11-06"
+   ],
+   "desde": "2026-11-06",
+   "hasta": "2026-11-29",
+   "url": "https://www.puntoticket.com/evento/comienzo-teatro-zoco-oct-nov-2026",
+   "fuente": "Puntoticket"
+  }
+ ]
+}
