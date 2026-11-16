@@ -1,8 +1,30 @@
 {
- "actualizado": "2026-11-06T13:00:00+00:00",
+ "actualizado": "2026-11-16T11:53:39+00:00",
  "eventos": [
   {
-   "titulo": "Elektra, de Richard Strauss",
+   "titulo": "Manon | Jules Massenet – Ópera escenificada",
+   "tipo": "opera",
+   "genero": "Ópera",
+   "lugar": "Teatro Municipal de Santiago",
+   "fechas": [
+    "2026-11-16"
+   ],
+   "url": "https://municipal.cl/espectaculos/manon-opera/",
+   "fuente": "Teatro Municipal"
+  },
+  {
+   "titulo": "ZZ Top",
+   "tipo": "musica",
+   "genero": "Blues Rock",
+   "lugar": "Teatro Caupolicán, Santiago Centro",
+   "url": "https://www.puntoticket.com/zz-top",
+   "fuente": "Puntoticket",
+   "fechas": [
+    "2026-11-16"
+   ]
+  },
+  {
+   "titulo": "Elektra de Richard Strauss | 2026",
    "tipo": "opera",
    "genero": "Ópera",
    "lugar": "Teatro Municipal de Santiago",
@@ -17,62 +39,625 @@
    "fuente": "Teatro Municipal"
   },
   {
-   "titulo": "Colombia le canta a Chile",
-   "tipo": "musica",
-   "genero": "Música popular colombiana",
-   "lugar": "Teatro Caupolicán, Santiago Centro",
-   "fechas": [
-    "2026-11-07"
-   ],
-   "url": "https://www.puntoticket.com/colombia-le-canta-a-chile-2026",
-   "fuente": "Puntoticket"
-  },
-  {
-   "titulo": "Def Leppard, Live 2026, con Extreme como invitado",
-   "tipo": "musica",
-   "genero": "Rock",
-   "lugar": "Santander Arena, Santiago Centro",
-   "fechas": [
-    "2026-11-08"
-   ],
-   "url": "https://www.puntoticket.com/def-leppard",
-   "fuente": "Puntoticket"
-  },
-  {
-   "titulo": "Los Tres, Unplugged 30 años",
-   "tipo": "musica",
-   "genero": "Rock",
-   "lugar": "Santander Arena, Santiago Centro",
-   "fechas": [
-    "2026-11-14",
-    "2026-11-15"
-   ],
-   "url": "https://www.puntoticket.com/los-tres",
-   "fuente": "Puntoticket"
-  },
-  {
-   "titulo": "Deep Purple",
-   "tipo": "musica",
-   "genero": "Hard rock",
-   "lugar": "Santander Arena, Santiago Centro",
-   "fechas": [
-    "2026-12-08"
-   ],
-   "url": "https://www.puntoticket.com/deep-purple",
-   "fuente": "Puntoticket"
-  },
-  {
    "titulo": "Comienzo",
    "tipo": "teatro",
    "genero": "Teatro",
    "lugar": "Teatro Zoco, Lo Barnechea",
-   "fechas": [
-    "2026-11-06"
-   ],
-   "desde": "2026-11-06",
-   "hasta": "2026-11-29",
    "url": "https://www.puntoticket.com/evento/comienzo-teatro-zoco-oct-nov-2026",
-   "fuente": "Puntoticket"
+   "fuente": "Puntoticket",
+   "fechas": [
+    "2026-11-19"
+   ],
+   "desde": "2026-11-19",
+   "hasta": "2026-11-29"
+  },
+  {
+   "titulo": "Ciclo Beethoven III – Boris Giltburg",
+   "tipo": "concierto",
+   "genero": "Sonatas Beethoven",
+   "lugar": "Teatro Municipal de Santiago",
+   "fechas": [
+    "2026-11-19T19:00"
+   ],
+   "url": "https://municipal.cl/espectaculos/ciclo-beethoven-iii-boris-giltburg/",
+   "fuente": "Teatro Municipal"
+  },
+  {
+   "titulo": "Camila - Tour Adiós",
+   "tipo": "musica",
+   "genero": "Romántico",
+   "lugar": "Santander Arena, Santiago Centro",
+   "url": "https://www.puntoticket.com/camila",
+   "fuente": "Puntoticket",
+   "fechas": [
+    "2026-11-20"
+   ]
+  },
+  {
+   "titulo": "Respira Primavera 2026",
+   "tipo": "musica",
+   "genero": "Techno",
+   "lugar": "Espacio Riesco, Huechuraba",
+   "url": "https://www.puntoticket.com/festival-primavera-2026",
+   "fuente": "Puntoticket",
+   "fechas": [
+    "2026-11-21",
+    "2026-11-22"
+   ]
+  },
+  {
+   "titulo": "Babasonicos",
+   "tipo": "musica",
+   "genero": "Rock Alternativo",
+   "lugar": "Santander Arena, Santiago Centro",
+   "url": "https://www.puntoticket.com/babasonicos-2026",
+   "fuente": "Puntoticket",
+   "fechas": [
+    "2026-11-21"
+   ]
+  },
+  {
+   "titulo": "Salomé de Richard Strauss | 2025",
+   "tipo": "opera",
+   "genero": "Ópera",
+   "lugar": "Teatro Municipal de Santiago",
+   "fechas": [
+    "2026-11-21T18:00",
+    "2026-11-23T17:00",
+    "2026-11-25T18:00",
+    "2026-11-27T18:00",
+    "2026-11-29T17:00"
+   ],
+   "url": "https://municipal.cl/espectaculos/salome-2025/",
+   "fuente": "Teatro Municipal"
+  },
+  {
+   "titulo": "Quilapayún Cierre Ciclo 60 años",
+   "tipo": "concierto",
+   "genero": "Conciertos y recitales",
+   "lugar": "Teatro Municipal de Santiago",
+   "fechas": [
+    "2026-11-21T20:00"
+   ],
+   "url": "https://municipal.cl/espectaculos/quilapayun-cierre-ciclo-60-anos/",
+   "fuente": "Teatro Municipal"
+  },
+  {
+   "titulo": "Ciclo Beethoven IV – Boris Giltburg",
+   "tipo": "concierto",
+   "genero": "Sonatas Beethoven",
+   "lugar": "Teatro Municipal de Santiago",
+   "fechas": [
+    "2026-11-22T17:00"
+   ],
+   "url": "https://municipal.cl/espectaculos/ciclo-beethoven-iv-boris-giltburg/",
+   "fuente": "Teatro Municipal"
+  },
+  {
+   "titulo": "Pianista James Wei 2025",
+   "tipo": "concierto",
+   "genero": "Pianistas",
+   "lugar": "Teatro Municipal de Santiago",
+   "fechas": [
+    "2026-11-22T19:00"
+   ],
+   "url": "https://municipal.cl/espectaculos/piano-5-james-wei-2025/",
+   "fuente": "Teatro Municipal"
+  },
+  {
+   "titulo": "David Garrett en el Municipal de Santiago",
+   "tipo": "concierto",
+   "genero": "Conciertos y recitales",
+   "lugar": "Teatro Municipal de Santiago",
+   "fechas": [
+    "2026-11-26T21:00"
+   ],
+   "url": "https://municipal.cl/espectaculos/david-garrett-en-el-municipal-de-santiago/",
+   "fuente": "Teatro Municipal"
+  },
+  {
+   "titulo": "20° Festival Fernando Rosas",
+   "tipo": "concierto",
+   "genero": "Conciertos y recitales",
+   "lugar": "Teatro Municipal de Santiago",
+   "fechas": [
+    "2026-11-27T15:00"
+   ],
+   "url": "https://municipal.cl/espectaculos/xx-festival-fernando-rosas-2026/",
+   "fuente": "Teatro Municipal"
+  },
+  {
+   "titulo": "Festi Ranch - El Gran Carenazo",
+   "tipo": "musica",
+   "genero": "Rancheras",
+   "lugar": "Laguna Caren, Pudahuel",
+   "url": "https://www.puntoticket.com/festi-ranch",
+   "fuente": "Puntoticket",
+   "fechas": [
+    "2026-11-28"
+   ]
+  },
+  {
+   "titulo": "Pedro Aznar: «Una noche entre amigos»",
+   "tipo": "concierto",
+   "genero": "Conciertos y recitales",
+   "lugar": "Teatro Municipal de Santiago",
+   "fechas": [
+    "2026-11-28T20:00"
+   ],
+   "url": "https://municipal.cl/espectaculos/concierto-pedro-aznar-2026/",
+   "fuente": "Teatro Municipal"
+  },
+  {
+   "titulo": "A Perfect Circle + Puscifer",
+   "tipo": "musica",
+   "genero": "Rock Alternativo",
+   "lugar": "Arena Hipódromo, Independencia",
+   "url": "https://www.puntoticket.com/aperfectcircle-puscifer",
+   "fuente": "Puntoticket",
+   "fechas": [
+    "2026-11-29"
+   ]
+  },
+  {
+   "titulo": "Illapu",
+   "tipo": "musica",
+   "genero": "Música",
+   "lugar": "Teatro Caupolicán, Santiago Centro",
+   "url": "https://www.puntoticket.com/evento/illapu-2026-teatro-caupolican-dic-2026",
+   "fuente": "Puntoticket",
+   "fechas": [
+    "2026-12-04",
+    "2026-12-05"
+   ]
+  },
+  {
+   "titulo": "Concierto solidario | Verónica Villarroel",
+   "tipo": "concierto",
+   "genero": "Conciertos y recitales",
+   "lugar": "Teatro Municipal de Santiago",
+   "fechas": [
+    "2026-12-04T19:00"
+   ],
+   "url": "https://municipal.cl/espectaculos/concierto-solidario-veronica-villarroel-2026/",
+   "fuente": "Teatro Municipal"
+  },
+  {
+   "titulo": "Maná - Vivir sin aire Tour",
+   "tipo": "musica",
+   "genero": "Pop-Rock",
+   "lugar": "Estadio Monumental, Macul",
+   "url": "https://www.puntoticket.com/mana",
+   "fuente": "Puntoticket",
+   "fechas": [
+    "2026-12-05"
+   ]
+  },
+  {
+   "titulo": "Cuarteto de Nos",
+   "tipo": "musica",
+   "genero": "Rock",
+   "lugar": "Santander Arena, Santiago Centro",
+   "url": "https://www.puntoticket.com/cuartetodenos",
+   "fuente": "Puntoticket",
+   "fechas": [
+    "2026-12-05"
+   ]
+  },
+  {
+   "titulo": "C7: Réquiem de guerra | 2026",
+   "tipo": "concierto",
+   "genero": "Conciertos y recitales",
+   "lugar": "Teatro Municipal de Santiago",
+   "fechas": [
+    "2026-12-05T19:00",
+    "2026-12-06T19:00"
+   ],
+   "url": "https://municipal.cl/espectaculos/c7-requiem-de-guerra-2026/",
+   "fuente": "Teatro Municipal"
+  },
+  {
+   "titulo": "C8 | 2025",
+   "tipo": "concierto",
+   "genero": "Conciertos y recitales",
+   "lugar": "Teatro Municipal de Santiago",
+   "fechas": [
+    "2026-12-05T19:00",
+    "2026-12-06T17:00"
+   ],
+   "url": "https://municipal.cl/espectaculos/c8-2025/",
+   "fuente": "Teatro Municipal"
+  },
+  {
+   "titulo": "Studio Ghibli Sinfónico – 40 años",
+   "tipo": "concierto",
+   "genero": "Conciertos y recitales",
+   "lugar": "Teatro Municipal de Santiago",
+   "fechas": [
+    "2026-12-07T18:00"
+   ],
+   "url": "https://municipal.cl/espectaculos/studio-ghibli-sinfonico/",
+   "fuente": "Teatro Municipal"
+  },
+  {
+   "titulo": "Deep Purple",
+   "tipo": "musica",
+   "genero": "Hard Rock",
+   "lugar": "Santander Arena, Santiago Centro",
+   "url": "https://www.puntoticket.com/deep-purple",
+   "fuente": "Puntoticket",
+   "fechas": [
+    "2026-12-08"
+   ]
+  },
+  {
+   "titulo": "Concierto «Queen sinfónico»",
+   "tipo": "concierto",
+   "genero": "Conciertos y recitales",
+   "lugar": "Teatro Municipal de Santiago",
+   "fechas": [
+    "2026-12-08T19:00"
+   ],
+   "url": "https://municipal.cl/espectaculos/concierto-queen-sinfonico-2026/",
+   "fuente": "Teatro Municipal"
+  },
+  {
+   "titulo": "Javiera Mena",
+   "tipo": "musica",
+   "genero": "Electro Pop",
+   "lugar": "Santander Arena, Santiago Centro",
+   "url": "https://www.puntoticket.com/javiera-mena-2026",
+   "fuente": "Puntoticket",
+   "fechas": [
+    "2026-12-09"
+   ]
+  },
+  {
+   "titulo": "Macha y El Bloque Depresivo",
+   "tipo": "musica",
+   "genero": "Boleros",
+   "lugar": "Estadio Nacional, Ñuñoa",
+   "url": "https://www.puntoticket.com/macha-y-el-bloque-depresivo",
+   "fuente": "Puntoticket",
+   "fechas": [
+    "2026-12-11",
+    "2026-12-12"
+   ]
+  },
+  {
+   "titulo": "Los Vasquez - El Último Movistar Arena",
+   "tipo": "musica",
+   "genero": "Pop Latino",
+   "lugar": "Santander Arena, Santiago Centro",
+   "url": "https://www.puntoticket.com/los-vasquez-el-ultimo-movistar-2026",
+   "fuente": "Puntoticket",
+   "fechas": [
+    "2026-12-12"
+   ]
+  },
+  {
+   "titulo": "Ballet familiar: Clarita y su amigo Cascanueces",
+   "tipo": "ballet",
+   "genero": "Ballet y danza",
+   "lugar": "Teatro Municipal de Santiago",
+   "fechas": [
+    "2026-12-12T12:00",
+    "2026-12-12T16:00",
+    "2026-12-13T12:00",
+    "2026-12-13T16:00",
+    "2026-12-19T12:00",
+    "2026-12-19T16:00"
+   ],
+   "url": "https://municipal.cl/espectaculos/ballet-familiar-clarita-y-su-amigo-cascanueces-2026/",
+   "fuente": "Teatro Municipal"
+  },
+  {
+   "titulo": "Asmik Grigorian | 2026",
+   "tipo": "concierto",
+   "genero": "Grandes estrellas",
+   "lugar": "Teatro Municipal de Santiago",
+   "fechas": [
+    "2026-12-12T19:00"
+   ],
+   "url": "https://municipal.cl/espectaculos/asmik-grigorian-2026/",
+   "fuente": "Teatro Municipal"
+  },
+  {
+   "titulo": "Katseye - EL GRAN CONCIERTO, TRIBUTE EXPERIENCE TOUR",
+   "tipo": "musica",
+   "genero": "Pop",
+   "lugar": "Teatro Coliseo, Santiago Centro",
+   "url": "https://www.puntoticket.com/katseye-el-gran-concierto-tribute-experience-tour",
+   "fuente": "Puntoticket",
+   "fechas": [
+    "2026-12-13"
+   ]
+  },
+  {
+   "titulo": "Concierto familiar: Canta, baila y aprende junto a Peces Sexteto",
+   "tipo": "concierto",
+   "genero": "Conciertos y recitales",
+   "lugar": "Teatro Municipal de Santiago",
+   "fechas": [
+    "2026-12-13T12:00"
+   ],
+   "url": "https://municipal.cl/espectaculos/concierto-familiar-canta-baila-y-aprende-junto-a-peces-sexteto/",
+   "fuente": "Teatro Municipal"
+  },
+  {
+   "titulo": "Cascanueces",
+   "tipo": "ballet",
+   "genero": "Ballet y danza",
+   "lugar": "Teatro Municipal de Santiago",
+   "fechas": [
+    "2026-12-13T19:00",
+    "2026-12-17T19:00",
+    "2026-12-18T19:00",
+    "2026-12-19T19:00",
+    "2026-12-21T19:00",
+    "2026-12-23T19:00",
+    "2026-12-26T19:00",
+    "2026-12-27T19:00",
+    "2026-12-29T19:00",
+    "2026-12-30T19:00"
+   ],
+   "url": "https://municipal.cl/espectaculos/ballet-cascanueces-2025/",
+   "fuente": "Teatro Municipal"
+  },
+  {
+   "titulo": "Cascanueces | 2026",
+   "tipo": "ballet",
+   "genero": "Ballet y danza",
+   "lugar": "Teatro Municipal de Santiago",
+   "fechas": [
+    "2026-12-14T19:00",
+    "2026-12-15T19:00",
+    "2026-12-18T19:00",
+    "2026-12-19T19:00",
+    "2026-12-21T19:00",
+    "2026-12-22T19:00",
+    "2026-12-23T19:00",
+    "2026-12-26T19:00",
+    "2026-12-28T19:00",
+    "2026-12-30T19:00"
+   ],
+   "url": "https://municipal.cl/espectaculos/cascanueces-2026/",
+   "fuente": "Teatro Municipal"
+  },
+  {
+   "titulo": "Stewart Copeland",
+   "tipo": "concierto",
+   "genero": "Conciertos y recitales",
+   "lugar": "Teatro Municipal de Santiago",
+   "fechas": [
+    "2026-12-15T20:00"
+   ],
+   "url": "https://municipal.cl/espectaculos/stewart-copeland/",
+   "fuente": "Teatro Municipal"
+  },
+  {
+   "titulo": "Cascanueces y Clarita en el Reino de los Confites",
+   "tipo": "ballet",
+   "genero": "Ballet y danza",
+   "lugar": "Teatro Municipal de Santiago",
+   "fechas": [
+    "2026-12-18T15:00",
+    "2026-12-19T15:00"
+   ],
+   "url": "https://municipal.cl/espectaculos/cascanueces-y-clarita-en-el-reino-de-los-confites/",
+   "fuente": "Teatro Municipal"
+  },
+  {
+   "titulo": "Cascanueces y Clarita en el Reino de los Confites",
+   "tipo": "ballet",
+   "genero": "Ballet y danza",
+   "lugar": "Teatro Municipal de Santiago",
+   "fechas": [
+    "2026-12-18T15:30",
+    "2026-12-19T15:30"
+   ],
+   "url": "https://municipal.cl/espectaculos/cascanueces-y-clarita-en-el-reino-de-los-confites-2026/",
+   "fuente": "Teatro Municipal"
+  },
+  {
+   "titulo": "Caribe Music Fest",
+   "tipo": "musica",
+   "genero": "Festival",
+   "lugar": "Santander Arena, Santiago Centro",
+   "url": "https://www.puntoticket.com/caribe-music-fest-2026",
+   "fuente": "Puntoticket",
+   "fechas": [
+    "2026-12-21"
+   ]
+  },
+  {
+   "titulo": "El arcoíris y las flores – Escuela de Ballet de Santiago",
+   "tipo": "ballet",
+   "genero": "Ballet y danza",
+   "lugar": "Teatro Municipal de Santiago",
+   "fechas": [
+    "2026-12-22T17:00"
+   ],
+   "url": "https://municipal.cl/espectaculos/el-arcoiris-y-las-flores-ballet-de-santiago/",
+   "fuente": "Teatro Municipal"
+  },
+  {
+   "titulo": "Gala Suite de Danses – Escuela de Ballet de Santiago",
+   "tipo": "ballet",
+   "genero": "Ballet y danza",
+   "lugar": "Teatro Municipal de Santiago",
+   "fechas": [
+    "2026-12-22T19:00"
+   ],
+   "url": "https://municipal.cl/espectaculos/gala-suite-de-danses-escuela-de-ballet/",
+   "fuente": "Teatro Municipal"
+  },
+  {
+   "titulo": "Cascanueces | Enero 2024",
+   "tipo": "ballet",
+   "genero": "Ballet y danza",
+   "lugar": "Teatro Municipal de Santiago",
+   "fechas": [
+    "2027-01-04T19:00",
+    "2027-01-05T19:00",
+    "2027-01-06T19:00",
+    "2027-01-07T18:00"
+   ],
+   "url": "https://municipal.cl/espectaculos/cascanueces-enero-2024/",
+   "fuente": "Teatro Municipal"
+  },
+  {
+   "titulo": "Prima Facie - Festival Solo Zoco",
+   "tipo": "teatro",
+   "genero": "Teatro",
+   "lugar": "Teatro Zoco, Lo Barnechea",
+   "url": "https://www.puntoticket.com/evento/prima-facie-teatro-zoco-ene-2027",
+   "fuente": "Puntoticket",
+   "fechas": [
+    "2027-01-08",
+    "2027-01-09"
+   ]
+  },
+  {
+   "titulo": "El lago de los cisnes | 2026",
+   "tipo": "ballet",
+   "genero": "Ballet y danza",
+   "lugar": "Teatro Municipal de Santiago",
+   "fechas": [
+    "2027-01-09T19:00",
+    "2027-01-10T19:00",
+    "2027-01-13T19:00",
+    "2027-01-14T19:00",
+    "2027-01-15T19:00",
+    "2027-01-19T19:00",
+    "2027-01-20T19:00"
+   ],
+   "url": "https://municipal.cl/espectaculos/el-lago-de-los-cisnes-2026/",
+   "fuente": "Teatro Municipal"
+  },
+  {
+   "titulo": "Carmina Burana 2024",
+   "tipo": "concierto",
+   "genero": "Conciertos y recitales",
+   "lugar": "Teatro Municipal de Santiago",
+   "fechas": [
+    "2027-01-10T19:00",
+    "2027-01-11T19:00",
+    "2027-01-12T19:00",
+    "2027-01-13T19:00"
+   ],
+   "url": "https://municipal.cl/espectaculos/carmina-burana-2024/",
+   "fuente": "Teatro Municipal"
+  },
+  {
+   "titulo": "La novicia rebelde | 2027",
+   "tipo": "teatro",
+   "genero": "Musical",
+   "lugar": "Teatro Municipal de Santiago",
+   "fechas": [
+    "2027-01-13T19:00",
+    "2027-01-14T19:00",
+    "2027-01-15T19:00",
+    "2027-01-16T19:00",
+    "2027-01-17T19:00",
+    "2027-01-21T19:00",
+    "2027-01-22T19:00",
+    "2027-01-23T19:00",
+    "2027-01-24T19:00"
+   ],
+   "url": "https://municipal.cl/espectaculos/la-novicia-rebelde-2027/",
+   "fuente": "Teatro Municipal"
+  },
+  {
+   "titulo": "Noche de Cumbión - Con Chico Trujillo",
+   "tipo": "musica",
+   "genero": "Cumbia",
+   "lugar": "Teatro Caupolicán, Santiago Centro",
+   "url": "https://www.puntoticket.com/evento/noche-de-cumbion-teatro-caupolican-ene-2027",
+   "fuente": "Puntoticket",
+   "fechas": [
+    "2027-01-15"
+   ]
+  },
+  {
+   "titulo": "Las Cosas Extraordinarias - Festival Solo Zoco",
+   "tipo": "teatro",
+   "genero": "Teatro",
+   "lugar": "Teatro Zoco, Lo Barnechea",
+   "url": "https://www.puntoticket.com/evento/las-cosas-extraordinarias-teatro-zoco-ene-2027",
+   "fuente": "Puntoticket",
+   "fechas": [
+    "2027-01-15",
+    "2027-01-16"
+   ]
+  },
+  {
+   "titulo": "La Persona Deprimida - Festival Solo Zoco",
+   "tipo": "teatro",
+   "genero": "Teatro",
+   "lugar": "Teatro Zoco, Lo Barnechea",
+   "url": "https://www.puntoticket.com/evento/la-persona-deprimida-teatro-zoco-ene-2027",
+   "fuente": "Puntoticket",
+   "fechas": [
+    "2027-01-22",
+    "2027-01-23"
+   ]
+  },
+  {
+   "titulo": "Molly Bloom - Festival Solo Zoco",
+   "tipo": "teatro",
+   "genero": "Teatro",
+   "lugar": "Teatro Zoco, Lo Barnechea",
+   "url": "https://www.puntoticket.com/evento/molly-bloom-teatro-zoco-ene-2027",
+   "fuente": "Puntoticket",
+   "fechas": [
+    "2027-01-29",
+    "2027-01-30"
+   ]
+  },
+  {
+   "titulo": "Festival Solo Zoco",
+   "tipo": "teatro",
+   "genero": "Teatro",
+   "lugar": "Teatro Zoco, Lo Barnechea",
+   "url": "https://www.puntoticket.com/festival-solo-zoco",
+   "fuente": "Puntoticket",
+   "fechas": [
+    "2027-01-30"
+   ]
+  },
+  {
+   "titulo": "Pitbull",
+   "tipo": "musica",
+   "genero": "Pop",
+   "lugar": "Santander Arena, Santiago Centro",
+   "url": "https://www.puntoticket.com/pitbull-live-scl-2027",
+   "fuente": "Puntoticket",
+   "fechas": [
+    "2027-02-11"
+   ]
+  },
+  {
+   "titulo": "El Vallenato que Enamora",
+   "tipo": "musica",
+   "genero": "Vallenato",
+   "lugar": "Santander Arena, Santiago Centro",
+   "url": "https://www.puntoticket.com/el-vallenato-que-enamora",
+   "fuente": "Puntoticket",
+   "fechas": [
+    "2027-02-12"
+   ]
+  },
+  {
+   "titulo": "Lali + Miranda! - BOM [ BAILAR O MORIR TOUR ]",
+   "tipo": "musica",
+   "genero": "Pop",
+   "lugar": "Santander Arena, Santiago Centro",
+   "url": "https://www.puntoticket.com/miranda-y-lali-2027",
+   "fuente": "Puntoticket",
+   "fechas": [
+    "2027-02-14"
+   ]
   }
  ]
 }
