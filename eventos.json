@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-16T11:53:39+00:00",
+ "actualizado": "2026-11-16T20:04:01+00:00",
  "eventos": [
   {
    "titulo": "Manon | Jules Massenet – Ópera escenificada",
@@ -200,18 +200,6 @@
    ]
   },
   {
-   "titulo": "Illapu",
-   "tipo": "musica",
-   "genero": "Música",
-   "lugar": "Teatro Caupolicán, Santiago Centro",
-   "url": "https://www.puntoticket.com/evento/illapu-2026-teatro-caupolican-dic-2026",
-   "fuente": "Puntoticket",
-   "fechas": [
-    "2026-12-04",
-    "2026-12-05"
-   ]
-  },
-  {
    "titulo": "Concierto solidario | Verónica Villarroel",
    "tipo": "concierto",
    "genero": "Conciertos y recitales",
@@ -402,6 +390,17 @@
     "2026-12-30T19:00"
    ],
    "url": "https://municipal.cl/espectaculos/ballet-cascanueces-2025/",
+   "fuente": "Teatro Municipal"
+  },
+  {
+   "titulo": "Concierto: «El universo de John Williams»",
+   "tipo": "concierto",
+   "genero": "Conciertos y recitales",
+   "lugar": "Teatro Municipal de Santiago",
+   "fechas": [
+    "2026-12-13T20:00"
+   ],
+   "url": "https://municipal.cl/espectaculos/concierto-el-universo-de-john-williams/",
    "fuente": "Teatro Municipal"
   },
   {
