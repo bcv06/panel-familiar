@@ -1,28 +1,6 @@
 {
- "actualizado": "2026-11-16T20:04:01+00:00",
+ "actualizado": "2026-11-17T19:00:18+00:00",
  "eventos": [
-  {
-   "titulo": "Manon | Jules Massenet – Ópera escenificada",
-   "tipo": "opera",
-   "genero": "Ópera",
-   "lugar": "Teatro Municipal de Santiago",
-   "fechas": [
-    "2026-11-16"
-   ],
-   "url": "https://municipal.cl/espectaculos/manon-opera/",
-   "fuente": "Teatro Municipal"
-  },
-  {
-   "titulo": "ZZ Top",
-   "tipo": "musica",
-   "genero": "Blues Rock",
-   "lugar": "Teatro Caupolicán, Santiago Centro",
-   "url": "https://www.puntoticket.com/zz-top",
-   "fuente": "Puntoticket",
-   "fechas": [
-    "2026-11-16"
-   ]
-  },
   {
    "titulo": "Elektra de Richard Strauss | 2026",
    "tipo": "opera",
@@ -459,17 +437,6 @@
    "fuente": "Teatro Municipal"
   },
   {
-   "titulo": "Caribe Music Fest",
-   "tipo": "musica",
-   "genero": "Festival",
-   "lugar": "Santander Arena, Santiago Centro",
-   "url": "https://www.puntoticket.com/caribe-music-fest-2026",
-   "fuente": "Puntoticket",
-   "fechas": [
-    "2026-12-21"
-   ]
-  },
-  {
    "titulo": "El arcoíris y las flores – Escuela de Ballet de Santiago",
    "tipo": "ballet",
    "genero": "Ballet y danza",
@@ -634,17 +601,6 @@
    "fuente": "Puntoticket",
    "fechas": [
     "2027-02-11"
-   ]
-  },
-  {
-   "titulo": "El Vallenato que Enamora",
-   "tipo": "musica",
-   "genero": "Vallenato",
-   "lugar": "Santander Arena, Santiago Centro",
-   "url": "https://www.puntoticket.com/el-vallenato-que-enamora",
-   "fuente": "Puntoticket",
-   "fechas": [
-    "2027-02-12"
    ]
   },
   {
