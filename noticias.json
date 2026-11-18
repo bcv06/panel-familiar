@@ -1,177 +1,182 @@
 {
- "actualizado": "2026-11-17T18:57:54.153774+00:00",
+ "actualizado": "2026-11-18T18:41:02.425707+00:00",
  "fuentes": {
   "bbc": [
    {
-    "t": "\"Vi decenas de cadáveres para reconocer a mi hermano de 14 años tras los terremotos de Venezuela y aún no sé si está enterrado o desaparecido\"",
-    "l": "https://www.bbc.com/mundo/articles/cwm25nnnp5yxo?at_medium=RSS&at_campaign=rss",
-    "d": "2026-11-17T11:59:29+00:00"
+    "t": "Por qué la histórica cumbre entre Trump, Putin y Xi preocupa a Europa (y qué puede significar para el resto del mundo)",
+    "l": "https://www.bbc.com/mundo/articles/cmwy98z3727vo?at_medium=RSS&at_campaign=rss",
+    "d": "2026-11-18T04:04:11+00:00"
    },
    {
-    "t": "\"El gobierno de Ortega me prohibió entrar en Nicaragua, por lo que regresé clandestinamente a mi propio país\"",
-    "l": "https://www.bbc.com/mundo/articles/cx21p732nv5o?at_medium=RSS&at_campaign=rss",
-    "d": "2026-11-17T14:53:10+00:00"
+    "t": "Investigué el asesinato de mi padre y desafío la versión oficial de un episodio clave de la historia de Perú",
+    "l": "https://www.bbc.com/mundo/articles/cmwyz0wj4xjeo?at_medium=RSS&at_campaign=rss",
+    "d": "2026-11-18T12:24:23+00:00"
    },
    {
-    "t": "China recibe a los líderes mundiales en Shenzhen, \"la ciudad de los sueños\": esto es lo que no verán",
+    "t": "El inusual encuentro con los awá, un grupo de indígenas aislados en Brasil (y por qué genera preocupación)",
+    "l": "https://www.bbc.com/mundo/articles/cmglry191y9xo?at_medium=RSS&at_campaign=rss",
+    "d": "2026-11-18T13:19:32+00:00"
+   },
+   {
+    "t": "No podíamos pagar una casa para nuestra familia, así que compramos una con desconocidos",
+    "l": "https://www.bbc.com/mundo/articles/cmzx95xnwdd6o?at_medium=RSS&at_campaign=rss",
+    "d": "2026-11-18T11:50:32+00:00"
+   },
+   {
+    "t": "El disco de oro con mensajes para los extraterrestres que transporta la sonda Voyager 1 (y cómo podrán descifrarlo)",
+    "l": "https://www.bbc.com/mundo/articles/ck1l0v4yy6p0o?at_medium=RSS&at_campaign=rss",
+    "d": "2026-11-18T11:27:58+00:00"
+   },
+   {
+    "t": "Encuentran una falla crítica en Java, el lenguaje de programación del que dependen el 90% de las grandes compañías del mundo",
+    "l": "https://www.bbc.com/mundo/articles/cwvg2enzxdm9o?at_medium=RSS&at_campaign=rss",
+    "d": "2026-11-18T11:28:37+00:00"
+   },
+   {
+    "t": "Quiénes son los 7 fundadores de Anthropic que están a punto de convertirse en multimillonarios",
+    "l": "https://www.bbc.com/mundo/articles/cm98x39221yro?at_medium=RSS&at_campaign=rss",
+    "d": "2026-11-18T17:33:57+00:00"
+   },
+   {
+    "t": "Cómo fue el sofisticado ataque con el que Ucrania destruyó parte del preciado puente de Crimea de Putin (y qué consecuencias tendrá)",
+    "l": "https://www.bbc.com/mundo/articles/c6y498pd1q54o?at_medium=RSS&at_campaign=rss",
+    "d": "2026-11-18T00:55:45+00:00"
+   },
+   {
+    "t": "\"Es mucho más divertido ser el malo\": la idea que inspiró a un pequeño estudio escocés a crear el exitoso videojuego GTA hace casi 30 años",
+    "l": "https://www.bbc.com/mundo/articles/cw772rdlzdkzo?at_medium=RSS&at_campaign=rss",
+    "d": "2026-11-18T14:19:20+00:00"
+   },
+   {
+    "t": "Xi recibe a Trump y Putin en Shenzhen, \"la ciudad de los sueños\" de China: esto es lo que no verán",
     "l": "https://www.bbc.com/mundo/articles/cqevrg8yr429o?at_medium=RSS&at_campaign=rss",
     "d": "2026-11-17T16:05:06+00:00"
-   },
-   {
-    "t": "Cómo los megamillonarios en Rusia se preparan para un futuro sin Putin",
-    "l": "https://www.bbc.com/mundo/articles/c91430j35n5ro?at_medium=RSS&at_campaign=rss",
-    "d": "2026-11-17T02:46:30+00:00"
-   },
-   {
-    "t": "El gran hito del Voyager: cuánto es un día luz, la distancia más lejana a la que llega un objeto creado por el ser humano",
-    "l": "https://www.bbc.com/mundo/articles/cmgrewv5zxqro?at_medium=RSS&at_campaign=rss",
-    "d": "2026-11-17T17:21:46+00:00"
-   },
-   {
-    "t": "Un ataque de Ucrania \"sin precedentes\"  destruye parcialmente el emblemático puente de Putin en Crimea",
-    "l": "https://www.bbc.com/mundo/articles/cje39lr0v1w7o?at_medium=RSS&at_campaign=rss",
-    "d": "2026-11-17T16:00:58+00:00"
-   },
-   {
-    "t": "México, Bolivia y EE.UU. pierden su estatus de países libres de sarampión tras registrar miles de casos y decenas de muertes",
-    "l": "https://www.bbc.com/mundo/articles/cq2e8xemzgpro?at_medium=RSS&at_campaign=rss",
-    "d": "2026-11-17T18:07:53+00:00"
-   },
-   {
-    "t": "Cómo ejercitar los tobillos, una de las partes del cuerpo que se lesionan con más frecuencia",
-    "l": "https://www.bbc.com/mundo/articles/c5zjrdmvj240o?at_medium=RSS&at_campaign=rss",
-    "d": "2026-11-17T16:48:47+00:00"
-   },
-   {
-    "t": "Tengo una deformidad física congénita que escondí de mis padres y compañeros de escuela",
-    "l": "https://www.bbc.com/mundo/articles/cr15e9qjnxdgo?at_medium=RSS&at_campaign=rss",
-    "d": "2026-11-16T12:49:59+00:00"
-   },
-   {
-    "t": "Qué tan poderosas son las pandillas a las que se enfrenta Bukele en Haití",
-    "l": "https://www.bbc.com/mundo/watch/cxj05r723gpjo?at_medium=RSS&at_campaign=rss",
-    "d": "2026-11-16T19:14:07+00:00"
    }
   ],
   "dw": [
    {
-    "t": "Volodimir Zelenski pide por videoconferencia al Grupo de Contacto para Ucrania: \"Necesitamos más aviones de combate\"",
-    "l": "https://www.dw.com/es/volodimir-zelenski-pide-por-videoconferencia-al-grupo-de-contacto-para-ucrania-necesitamos-más-aviones-de-combate/a-79974881?maca=spa-rss-sp-all-1122-rdf",
-    "d": "2026-11-17T18:34:00+00:00"
+    "t": "Diallo contra Infantino: batalla por el control del fútbol mundial",
+    "l": "https://www.dw.com/es/diallo-contra-infantino-batalla-por-el-control-del-fútbol-mundial/a-79985014?maca=spa-rss-sp-all-1122-rdf",
+    "d": "2026-11-18T18:23:00+00:00"
    },
    {
-    "t": "Sin futuro: el sueño internacional de los universitarios de Irán",
-    "l": "https://www.dw.com/es/sin-futuro-el-sueño-internacional-de-los-universitarios-de-irán/a-79974427?maca=spa-rss-sp-all-1122-rdf",
-    "d": "2026-11-17T18:13:00+00:00"
+    "t": "¿Renunciaría Ucrania al Donbás a cambio de ingresar en la OTAN?",
+    "l": "https://www.dw.com/es/¿renunciaría-ucrania-al-donbás-a-cambio-de-ingresar-en-la-otan/a-79984054?maca=spa-rss-sp-all-1122-rdf",
+    "d": "2026-11-18T18:16:00+00:00"
    },
    {
-    "t": "Los funcionarios públicos protestan para reclamar mayores salarios en una Francia en crisis",
-    "l": "https://www.dw.com/es/los-funcionarios-públicos-protestan-para-reclamar-mayores-salarios-en-una-francia-en-crisis/a-79974558?maca=spa-rss-sp-all-1122-rdf",
-    "d": "2026-11-17T17:37:00+00:00"
+    "t": "UE propone un nuevo préstamo de 45.000 millones de euros a Ucrania para 2027",
+    "l": "https://www.dw.com/es/ue-propone-un-nuevo-préstamo-de-45-000-millones-de-euros-a-ucrania-para-2027/a-79984535?maca=spa-rss-sp-all-1122-rdf",
+    "d": "2026-11-18T16:27:00+00:00"
    },
    {
-    "t": "Aunque los apoyos se tambalean, Europa cierra filas con Ucrania",
-    "l": "https://www.dw.com/es/aunque-los-apoyos-se-tambalean-europa-cierra-filas-con-ucrania/a-79972328?maca=spa-rss-sp-all-1122-rdf",
-    "d": "2026-11-17T17:07:00+00:00"
+    "t": "Trump, Xi y Putin: en busca de una solución para Irán y Ucrania",
+    "l": "https://www.dw.com/es/trump-xi-y-putin-en-busca-de-una-solución-para-irán-y-ucrania/a-79983531?maca=spa-rss-sp-all-1122-rdf",
+    "d": "2026-11-18T16:09:00+00:00"
    },
    {
-    "t": "El legado de Orbán en Hungría: millones ocultos, trata y robo bancario",
-    "l": "https://www.dw.com/es/el-legado-de-orbán-en-hungría-millones-ocultos-trata-y-robo-bancario/a-79972472?maca=spa-rss-sp-all-1122-rdf",
-    "d": "2026-11-17T16:32:00+00:00"
+    "t": "Advierten de nueva vulnerabilidad global: esta vez es Java",
+    "l": "https://www.dw.com/es/advierten-de-nueva-vulnerabilidad-global-esta-vez-es-java/a-79983803?maca=spa-rss-sp-all-1122-rdf",
+    "d": "2026-11-18T15:56:00+00:00"
    },
    {
-    "t": "El ataque contra el puente de Crimea muestra la necesidad de negociar para terminar la guerra, dice Johann Wadephul",
-    "l": "https://www.dw.com/es/el-ataque-contra-el-puente-de-crimea-muestra-la-necesidad-de-negociar-para-terminar-la-guerra-dice-johann-wadephul/a-79973250?maca=spa-rss-sp-all-1122-rdf",
-    "d": "2026-11-17T15:55:00+00:00"
+    "t": "Un crédito récord a Airbus pone a prueba la tregua comercial UE-EE.UU.",
+    "l": "https://www.dw.com/es/un-crédito-récord-a-airbus-pone-a-prueba-la-tregua-comercial-ue-ee-uu/a-79975233?maca=spa-rss-sp-all-1122-rdf",
+    "d": "2026-11-18T14:36:00+00:00"
    },
    {
-    "t": "Filtración masiva expone a Deutsche Bank por Epstein y oligarcas rusos",
-    "l": "https://www.dw.com/es/filtración-masiva-expone-a-deutsche-bank-por-epstein-y-oligarcas-rusos/a-79972229?maca=spa-rss-sp-all-1122-rdf",
-    "d": "2026-11-17T14:58:00+00:00"
+    "t": "Pese a goleada, Alemania sale del Top 10 de selecciones de fútbol",
+    "l": "https://www.dw.com/es/pese-a-goleada-alemania-sale-del-top-10-de-selecciones-de-fútbol/a-79981114?maca=spa-rss-sp-all-1122-rdf",
+    "d": "2026-11-18T12:34:00+00:00"
    },
    {
-    "t": "Profecía de Jürgen Klopp se vuelve viral tras rodillo 5-0 a Países Bajos",
-    "l": "https://www.dw.com/es/profecía-de-jürgen-klopp-se-vuelve-viral-tras-rodillo-5-0-a-países-bajos/a-79970408?maca=spa-rss-sp-all-1122-rdf",
-    "d": "2026-11-17T12:29:00+00:00"
+    "t": "Irán amenaza con respuesta a EE. UU. \"sin límites geográficos\" y lanza drones contra Kuwait y Baréin",
+    "l": "https://www.dw.com/es/irán-amenaza-con-respuesta-a-ee-uu-sin-límites-geográficos-y-lanza-drones-contra-kuwait-y-baréin/a-79977095?maca=spa-rss-sp-all-1122-rdf",
+    "d": "2026-11-18T12:21:00+00:00"
    },
    {
-    "t": "Ucrania golpea el puente de Crimea en segundo ataque masivo en 24 horas",
-    "l": "https://www.dw.com/es/ucrania-golpea-el-puente-de-crimea-en-segundo-ataque-masivo-en-24-horas/a-79965643?maca=spa-rss-sp-all-1122-rdf",
-    "d": "2026-11-17T12:10:00+00:00"
+    "t": "Xi, Trump y Putin se saludan y posan para \"foto de familia\" antes de su cumbre trilateral",
+    "l": "https://www.dw.com/es/xi-trump-y-putin-se-saludan-y-posan-para-foto-de-familia-antes-de-su-cumbre-trilateral/a-79980832?maca=spa-rss-sp-all-1122-rdf",
+    "d": "2026-11-18T11:59:00+00:00"
    },
    {
-    "t": "EE. UU. investiga a Megaspeed por venta a China de chips restringidos",
-    "l": "https://www.dw.com/es/ee-uu-investiga-a-megaspeed-por-venta-a-china-de-chips-restringidos/a-79967654?maca=spa-rss-sp-all-1122-rdf",
-    "d": "2026-11-17T11:42:00+00:00"
+    "t": "Xi abraza a Trump en Shenzhen, antes de cumbre con Putin en la APEC",
+    "l": "https://www.dw.com/es/xi-abraza-a-trump-en-shenzhen-antes-de-cumbre-con-putin-en-la-apec/a-79978076?maca=spa-rss-sp-all-1122-rdf",
+    "d": "2026-11-18T10:07:00+00:00"
    }
   ],
   "f24": [
    {
-    "t": "Irán vuelve a atacar posiciones estadounidenses en Bahrein y reporta explosiones en la isla de Qeshm",
-    "l": "https://www.france24.com/es/medio-oriente/20261117-ir%C3%A1n-vuelve-a-atacar-posiciones-estadounidenses-en-bahrein-y-reporta-explosiones-en-la-isla-de-qeshm",
-    "d": "2026-11-17T18:38:08+00:00"
+    "t": "¿Por qué el primer avistaje en 30 años de indígenas awá en Brasil aviva los temores por la Amazonía?",
+    "l": "https://www.france24.com/es/am%C3%A9rica-latina/20261118-por-qu%C3%A9-el-primer-avistaje-en-30-a%C3%B1os-de-ind%C3%ADgenas-aw%C3%A1-en-brasil-aviva-los-temores-por-la-amazon%C3%ADa",
+    "d": "2026-11-18T17:30:18+00:00"
    },
    {
-    "t": "Nuevo caso de allanamiento y suspensión de un medio de comunicación opositor en Turquía",
-    "l": "https://www.france24.com/es/video/20261117-nuevo-caso-de-allanamiento-y-suspensi%C3%B3n-de-un-medio-de-comunicaci%C3%B3n-opositor-en-turqu%C3%ADa",
-    "d": "2026-11-17T18:27:50+00:00"
+    "t": "Venecia: las marismas que capturan más CO₂ que los bosques",
+    "l": "https://www.france24.com/es/programas/en-foco/20261118-venecia-las-marismas-que-capturan-m%C3%A1s-co%E2%82%82-que-los-bosques",
+    "d": "2026-11-18T16:48:38+00:00"
    },
    {
-    "t": "La Cámara de Representantes de EE. UU. cita a Jensen Huang para el 1 de diciembre",
-    "l": "https://www.france24.com/es/programas/econom%C3%ADa/20261117-economia-huang-nvidia-congreso-resultados",
-    "d": "2026-11-17T18:11:03+00:00"
+    "t": "Trump, Xi y Putin se reunirán en la cumbre de la APEC en un encuentro trilateral sin precedentes",
+    "l": "https://www.france24.com/es/video/20261118-trump-xi-y-putin-se-reunir%C3%A1n-en-la-cumbre-de-la-apec-en-un-encuentro-trilateral-sin-precedentes",
+    "d": "2026-11-18T15:16:04+00:00"
    },
    {
-    "t": "¿Por qué preocupa el plan europeo de construir un centro de deportación de migrantes en Ruanda?",
-    "l": "https://f24.my/CI1x",
-    "d": "2026-11-17T16:30:38+00:00"
+    "t": "Informe desde Shenzhen: Xi recibe a Trump en la pista del aeropuerto antes de la cumbre de la APEC",
+    "l": "https://www.france24.com/es/video/20261118-informe-desde-shenzhen-xi-recibe-a-trump-en-la-pista-del-aeropuerto-antes-de-la-cumbre-de-la-apec",
+    "d": "2026-11-18T15:09:21+00:00"
    },
    {
-    "t": "¿Por qué preocupa el plan europeo de construir un centro de deportación de migrantes en Ruanda?",
-    "l": "https://www.france24.com/es/europa/20261117-por-qu%C3%A9-preocupa-el-plan-europeo-de-construir-un-centro-de-deportaci%C3%B3n-de-migrantes-en-ruanda",
-    "d": "2026-11-17T16:23:42+00:00"
+    "t": "Directo París y las propuestas pensionales de Le Pen y Édouard Philippe",
+    "l": "https://www.france24.com/es/video/20261118-directo-par%C3%ADs-y-las-propuestas-pensionales-de-le-pen-y-%C3%A9douard-philippe",
+    "d": "2026-11-18T15:08:58+00:00"
    },
    {
-    "t": "Puentes, objetivos clave de las últimas rondas de ataques entre Rusia y Ucrania",
-    "l": "https://www.france24.com/es/video/20261117-puentes-objetivos-clave-de-las-%C3%BAltimas-rondas-de-ataques-entre-rusia-y-ucrania",
-    "d": "2026-11-17T16:15:32+00:00"
+    "t": "¿Cuál es el objetivo de la reunión trilateral entre Trump, Xi y Putin durante la cumbre de la APEC?",
+    "l": "https://www.france24.com/es/video/20261118-cu%C3%A1l-es-el-objetivo-de-la-reuni%C3%B3n-trilateral-entre-trump-xi-y-putin-durante-la-cumbre-de-la-apec",
+    "d": "2026-11-18T15:08:30+00:00"
    },
    {
-    "t": "Delcy Rodriguez, \"la colaboradora en jefe de Venezuela\": 'The New Yorker'",
-    "l": "https://www.france24.com/es/programas/revista-de-prensa/20261117-delcy-rodriguez-la-colaboradora-en-jefe-de-venezuela-the-new-yorker",
-    "d": "2026-11-17T15:41:33+00:00"
+    "t": "Hutíes de Yemen pugnan por Adén: ¿un revés para Arabia Saudita?",
+    "l": "https://www.france24.com/es/programas/expreso-de-oriente/20261118-hut%C3%ADes-de-yemen-pugnan-por-ad%C3%A9n-un-rev%C3%A9s-para-arabia-saudita",
+    "d": "2026-11-18T15:04:33+00:00"
    },
    {
-    "t": "Peña y Ueno Bank: \"En Paraguay la impunidad es extraordinariamente alta\"",
-    "l": "https://www.france24.com/es/programas/la-entrevista/20261117-ueno-bank-y-la-crisis-en-paraguay-la-impunidad-es-extraordinariamente-alta",
-    "d": "2026-11-17T15:24:42+00:00"
+    "t": "La COP31 encara su recta final con negociaciones intensas y desacuerdos profundos",
+    "l": "https://www.france24.com/es/medio-ambiente/20261118-la-cop31-encara-su-recta-final-con-negociaciones-intensas-y-desacuerdos-profundos",
+    "d": "2026-11-18T14:52:39+00:00"
    },
    {
-    "t": "Informe desde Shenzhen: Canadá y China se acercan con miras a reducir su dependencia de EE. UU.",
-    "l": "https://www.france24.com/es/video/20261117-informe-desde-shenzhen-canad%C3%A1-y-china-se-acercan-con-miras-a-reducir-su-dependencia-de-ee-uu",
-    "d": "2026-11-17T15:09:15+00:00"
+    "t": "Midterms: los demócratas conquistan Alaska y se consolidan con 56 senadores en el Congreso de EE. UU.",
+    "l": "https://www.france24.com/es/ee-uu-y-canad%C3%A1/20261118-midterms-los-dem%C3%B3cratas-conquistan-alaska-y-se-consolidan-con-56-senadores-en-el-congreso-de-ee-uu",
+    "d": "2026-11-18T14:33:48+00:00"
    },
    {
-    "t": "Sudáfrica: ¿por qué se desgasta el partido de Mandela?",
-    "l": "https://www.france24.com/es/programas/%C3%A1frica-7-d%C3%ADas/20261117-sud%C3%A1frica-por-qu%C3%A9-se-desgasta-el-partido-de-mandela",
-    "d": "2026-11-17T14:18:49+00:00"
+    "t": "\"Bandas carcelarias están transformando a Ecuador en un narcoestado\": 'WSJ'",
+    "l": "https://www.france24.com/es/programas/revista-de-prensa/20261118-bandas-carcelarias-est%C3%A1n-transformando-a-ecuador-en-un-narcoestado-wsj",
+    "d": "2026-11-18T13:57:10+00:00"
    }
   ],
   "pais": [
    {
-    "t": "Ucrania destruye parte del puente de Crimea, símbolo de la anexión rusa impuesta por Putin",
-    "l": "https://elpais.com/internacional/2026-11-17/ucrania-destruye-e-inutiliza-parte-del-puente-de-crimea.html",
-    "d": "2026-11-17T14:37:59+00:00"
+    "t": "Xi y Putin reafirman su alianza estratégica antes de su reunión a tres bandas con Trump",
+    "l": "https://elpais.com/internacional/2026-11-18/xi-jinping-y-putin-reivindican-su-firme-relacion-poco-antes-de-la-llegada-de-trump-a-la-cumbre-de-la-apec-en-china.html",
+    "d": "2026-11-18T16:24:14+00:00"
    },
    {
-    "t": "El ataque ruso a un centro de reparto de ayuda en Zaporiyia es ya la segunda mayor masacre de la guerra de Ucrania",
-    "l": "https://elpais.com/internacional/2026-11-17/el-ataque-ruso-a-un-centro-de-reparto-de-ayuda-en-zaporiyia-es-ya-la-segunda-mayor-masacre-de-la-guerra-de-ucrania.html",
-    "d": "2026-11-17T09:51:48+00:00"
+    "t": "Rusia pasa a una nueva fase en su ofensiva en Europa: sabotajes a los fabricantes de armas",
+    "l": "https://elpais.com/internacional/2026-11-18/rusia-pasa-a-una-nueva-fase-en-su-ofensiva-en-europa-sabotajes-a-los-fabricantes-de-armas.html",
+    "d": "2026-11-18T04:30:01+00:00"
    },
    {
-    "t": "La UE busca fuera de sus fronteras una solución al fracaso de sus deportaciones",
-    "l": "https://elpais.com/internacional/2026-11-17/la-ue-busca-fuera-de-sus-fronteras-una-solucion-al-fracaso-de-sus-deportaciones.html",
-    "d": "2026-11-17T04:30:01+00:00"
+    "t": "Verificación | El ataque de Ucrania destruyó más de 200 metros del sector central y más icónico del puente de Crimea",
+    "l": "https://elpais.com/internacional/2026-11-18/verificacion-el-ataque-de-ucrania-destruyo-mas-de-200-metros-del-sector-central-y-mas-iconico-del-puente-de-crimea.html",
+    "d": "2026-11-18T17:40:48+00:00"
+   },
+   {
+    "t": "De Yalta a Shenzhen",
+    "l": "https://elpais.com/internacional/2026-11-18/de-yalta-a-shenzhen.html",
+    "d": "2026-11-18T09:17:06+00:00"
    },
    {
     "t": "Putin y Trump buscan un cambio de régimen en Europa",
@@ -194,19 +199,14 @@
     "d": "2026-11-09T15:23:35+00:00"
    },
    {
-    "t": "‘Trumpazo’ económico, debacle política",
-    "l": "https://elpais.com/internacional/2026-11-09/trumpazo-economico-debacle-politica.html",
-    "d": "2026-11-09T04:30:01+00:00"
+    "t": "¿Ha cometido Myanmar un genocidio contra los rohinyás? El máximo órgano judicial de la ONU resolverá este jueves",
+    "l": "https://elpais.com/internacional/2026-11-18/ha-cometido-myanmar-un-genocidio-contra-los-rohinyas-el-maximo-organo-judicial-de-la-onu-resolvera-este-jueves.html",
+    "d": "2026-11-18T17:25:13+00:00"
    },
    {
-    "t": "Alemania presupuestará 20 millones de euros para enviar a 40 migrantes al centro de deportación en Ruanda",
-    "l": "https://elpais.com/internacional/2026-11-17/alemania-presupuestara-20-millones-de-euros-para-enviar-a-40-migrantes-al-centro-de-deportacion-europeo-en-ruanda.html",
-    "d": "2026-11-17T16:30:51+00:00"
-   },
-   {
-    "t": "Cinco países europeos crearán en Ruanda el primer centro de deportación fuera de la UE",
-    "l": "https://elpais.com/internacional/2026-11-16/cinco-paises-europeos-crearan-en-ruanda-el-primer-centro-de-deportacion-fuera-de-la-ue.html",
-    "d": "2026-11-16T15:23:03+00:00"
+    "t": "Genocidio, la dificultad de probar el crimen de los crímenes",
+    "l": "https://elpais.com/internacional/2026-11-18/genocidio-la-dificultad-de-probar-el-crimen-de-los-crimenes.html",
+    "d": "2026-11-18T04:30:01+00:00"
    }
   ]
  }
