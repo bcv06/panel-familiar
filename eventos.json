@@ -1,30 +1,6 @@
 {
- "actualizado": "2026-11-19T18:56:05+00:00",
+ "actualizado": "2026-11-20T18:24:15+00:00",
  "eventos": [
-  {
-   "titulo": "Comienzo",
-   "tipo": "teatro",
-   "genero": "Teatro",
-   "lugar": "Teatro Zoco, Lo Barnechea",
-   "url": "https://www.puntoticket.com/evento/comienzo-teatro-zoco-oct-nov-2026",
-   "fuente": "Puntoticket",
-   "fechas": [
-    "2026-11-19"
-   ],
-   "desde": "2026-11-19",
-   "hasta": "2026-11-29"
-  },
-  {
-   "titulo": "Ciclo Beethoven III – Boris Giltburg",
-   "tipo": "concierto",
-   "genero": "Sonatas Beethoven",
-   "lugar": "Teatro Municipal de Santiago",
-   "fechas": [
-    "2026-11-19T19:00"
-   ],
-   "url": "https://municipal.cl/espectaculos/ciclo-beethoven-iii-boris-giltburg/",
-   "fuente": "Teatro Municipal"
-  },
   {
    "titulo": "Camila - Tour Adiós",
    "tipo": "musica",
@@ -35,6 +11,19 @@
    "fechas": [
     "2026-11-20"
    ]
+  },
+  {
+   "titulo": "Comienzo",
+   "tipo": "teatro",
+   "genero": "Teatro",
+   "lugar": "Teatro Zoco, Lo Barnechea",
+   "url": "https://www.puntoticket.com/evento/comienzo-teatro-zoco-oct-nov-2026",
+   "fuente": "Puntoticket",
+   "fechas": [
+    "2026-11-20"
+   ],
+   "desde": "2026-11-20",
+   "hasta": "2026-11-29"
   },
   {
    "titulo": "Elektra de Richard Strauss | 2026",
@@ -111,6 +100,17 @@
    "fuente": "Teatro Municipal"
   },
   {
+   "titulo": "Caleuche 2026",
+   "tipo": "concierto",
+   "genero": "Conciertos y recitales",
+   "lugar": "Teatro Municipal de Santiago",
+   "fechas": [
+    "2026-11-22T12:00"
+   ],
+   "url": "https://municipal.cl/espectaculos/caleuche-2026/",
+   "fuente": "Teatro Municipal"
+  },
+  {
    "titulo": "Ciclo Beethoven IV – Boris Giltburg",
    "tipo": "concierto",
    "genero": "Sonatas Beethoven",
@@ -130,6 +130,17 @@
     "2026-11-22T19:00"
    ],
    "url": "https://municipal.cl/espectaculos/piano-5-james-wei-2025/",
+   "fuente": "Teatro Municipal"
+  },
+  {
+   "titulo": "Concierto gratuito: «Tinta fresca»",
+   "tipo": "concierto",
+   "genero": "Conciertos y recitales",
+   "lugar": "Teatro Municipal de Santiago",
+   "fechas": [
+    "2026-11-24T19:00"
+   ],
+   "url": "https://municipal.cl/espectaculos/concierto-gratuito-tinta-fresca-2026/",
    "fuente": "Teatro Municipal"
   },
   {
@@ -611,6 +622,17 @@
    "fuente": "Puntoticket",
    "fechas": [
     "2027-02-11"
+   ]
+  },
+  {
+   "titulo": "El Vallenato que Enamora",
+   "tipo": "musica",
+   "genero": "Vallenato",
+   "lugar": "Santander Arena, Santiago Centro",
+   "url": "https://www.puntoticket.com/el-vallenato-que-enamora",
+   "fuente": "Puntoticket",
+   "fechas": [
+    "2027-02-12"
    ]
   },
   {
