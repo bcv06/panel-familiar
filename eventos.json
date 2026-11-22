@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-21T17:10:37+00:00",
+ "actualizado": "2026-11-22T17:41:09+00:00",
  "eventos": [
   {
    "titulo": "Respira Primavera 2026",
@@ -9,30 +9,7 @@
    "url": "https://www.puntoticket.com/festival-primavera-2026",
    "fuente": "Puntoticket",
    "fechas": [
-    "2026-11-21",
     "2026-11-22"
-   ]
-  },
-  {
-   "titulo": "Babasonicos",
-   "tipo": "musica",
-   "genero": "Rock Alternativo",
-   "lugar": "Santander Arena, Santiago Centro",
-   "url": "https://www.puntoticket.com/babasonicos-2026",
-   "fuente": "Puntoticket",
-   "fechas": [
-    "2026-11-21"
-   ]
-  },
-  {
-   "titulo": "Djavan",
-   "tipo": "musica",
-   "genero": "Funk",
-   "lugar": "Teatro Caupolicán, Santiago Centro",
-   "url": "https://www.puntoticket.com/djavan-live-scl-2026",
-   "fuente": "Puntoticket",
-   "fechas": [
-    "2026-11-21"
    ]
   },
   {
@@ -43,36 +20,10 @@
    "url": "https://www.puntoticket.com/evento/comienzo-teatro-zoco-oct-nov-2026",
    "fuente": "Puntoticket",
    "fechas": [
-    "2026-11-21"
+    "2026-11-22"
    ],
-   "desde": "2026-11-21",
+   "desde": "2026-11-22",
    "hasta": "2026-11-29"
-  },
-  {
-   "titulo": "Salomé de Richard Strauss | 2025",
-   "tipo": "opera",
-   "genero": "Ópera",
-   "lugar": "Teatro Municipal de Santiago",
-   "fechas": [
-    "2026-11-21T18:00",
-    "2026-11-23T17:00",
-    "2026-11-25T18:00",
-    "2026-11-27T18:00",
-    "2026-11-29T17:00"
-   ],
-   "url": "https://municipal.cl/espectaculos/salome-2025/",
-   "fuente": "Teatro Municipal"
-  },
-  {
-   "titulo": "Quilapayún Cierre Ciclo 60 años",
-   "tipo": "concierto",
-   "genero": "Conciertos y recitales",
-   "lugar": "Teatro Municipal de Santiago",
-   "fechas": [
-    "2026-11-21T20:00"
-   ],
-   "url": "https://municipal.cl/espectaculos/quilapayun-cierre-ciclo-60-anos/",
-   "fuente": "Teatro Municipal"
   },
   {
    "titulo": "Caleuche 2026",
@@ -105,6 +56,20 @@
     "2026-11-22T19:00"
    ],
    "url": "https://municipal.cl/espectaculos/piano-5-james-wei-2025/",
+   "fuente": "Teatro Municipal"
+  },
+  {
+   "titulo": "Salomé de Richard Strauss | 2025",
+   "tipo": "opera",
+   "genero": "Ópera",
+   "lugar": "Teatro Municipal de Santiago",
+   "fechas": [
+    "2026-11-23T17:00",
+    "2026-11-25T18:00",
+    "2026-11-27T18:00",
+    "2026-11-29T17:00"
+   ],
+   "url": "https://municipal.cl/espectaculos/salome-2025/",
    "fuente": "Teatro Municipal"
   },
   {
@@ -184,6 +149,18 @@
    "fuente": "Puntoticket",
    "fechas": [
     "2026-11-29"
+   ]
+  },
+  {
+   "titulo": "Illapu",
+   "tipo": "musica",
+   "genero": "Música",
+   "lugar": "Teatro Caupolicán, Santiago Centro",
+   "url": "https://www.puntoticket.com/evento/illapu-2026-teatro-caupolican-dic-2026",
+   "fuente": "Puntoticket",
+   "fechas": [
+    "2026-12-04",
+    "2026-12-05"
    ]
   },
   {
@@ -643,6 +620,17 @@
    "fuente": "Puntoticket",
    "fechas": [
     "2027-02-14"
+   ]
+  },
+  {
+   "titulo": "Sin Bandera - Escenas Tour 2027",
+   "tipo": "musica",
+   "genero": "Romántico",
+   "lugar": "Santander Arena, Santiago Centro",
+   "url": "https://www.puntoticket.com/sin-bandera",
+   "fuente": "Puntoticket",
+   "fechas": [
+    "2027-03-02"
    ]
   }
  ]
