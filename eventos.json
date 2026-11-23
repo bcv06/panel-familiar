@@ -1,63 +1,6 @@
 {
- "actualizado": "2026-11-22T17:41:09+00:00",
+ "actualizado": "2026-11-23T21:56:42+00:00",
  "eventos": [
-  {
-   "titulo": "Respira Primavera 2026",
-   "tipo": "musica",
-   "genero": "Techno",
-   "lugar": "Espacio Riesco, Huechuraba",
-   "url": "https://www.puntoticket.com/festival-primavera-2026",
-   "fuente": "Puntoticket",
-   "fechas": [
-    "2026-11-22"
-   ]
-  },
-  {
-   "titulo": "Comienzo",
-   "tipo": "teatro",
-   "genero": "Teatro",
-   "lugar": "Teatro Zoco, Lo Barnechea",
-   "url": "https://www.puntoticket.com/evento/comienzo-teatro-zoco-oct-nov-2026",
-   "fuente": "Puntoticket",
-   "fechas": [
-    "2026-11-22"
-   ],
-   "desde": "2026-11-22",
-   "hasta": "2026-11-29"
-  },
-  {
-   "titulo": "Caleuche 2026",
-   "tipo": "concierto",
-   "genero": "Conciertos y recitales",
-   "lugar": "Teatro Municipal de Santiago",
-   "fechas": [
-    "2026-11-22T12:00"
-   ],
-   "url": "https://municipal.cl/espectaculos/caleuche-2026/",
-   "fuente": "Teatro Municipal"
-  },
-  {
-   "titulo": "Ciclo Beethoven IV – Boris Giltburg",
-   "tipo": "concierto",
-   "genero": "Sonatas Beethoven",
-   "lugar": "Teatro Municipal de Santiago",
-   "fechas": [
-    "2026-11-22T17:00"
-   ],
-   "url": "https://municipal.cl/espectaculos/ciclo-beethoven-iv-boris-giltburg/",
-   "fuente": "Teatro Municipal"
-  },
-  {
-   "titulo": "Pianista James Wei 2025",
-   "tipo": "concierto",
-   "genero": "Pianistas",
-   "lugar": "Teatro Municipal de Santiago",
-   "fechas": [
-    "2026-11-22T19:00"
-   ],
-   "url": "https://municipal.cl/espectaculos/piano-5-james-wei-2025/",
-   "fuente": "Teatro Municipal"
-  },
   {
    "titulo": "Salomé de Richard Strauss | 2025",
    "tipo": "opera",
@@ -95,6 +38,32 @@
    ],
    "url": "https://municipal.cl/espectaculos/concierto-gratuito-tinta-fresca-2026/",
    "fuente": "Teatro Municipal"
+  },
+  {
+   "titulo": "Alexisonfire - Performs Crisis In Full",
+   "tipo": "musica",
+   "genero": "Hardcore",
+   "lugar": "Teatro Coliseo, Santiago Centro",
+   "url": "https://www.puntoticket.com/aof-coliseo",
+   "fuente": "Puntoticket",
+   "fechas": [
+    "2026-11-25",
+    "2026-11-26"
+   ]
+  },
+  {
+   "titulo": "Comienzo",
+   "tipo": "teatro",
+   "genero": "Teatro",
+   "lugar": "Teatro Zoco, Lo Barnechea",
+   "url": "https://www.puntoticket.com/evento/comienzo-teatro-zoco-oct-nov-2026",
+   "fuente": "Puntoticket",
+   "fechas": [
+    "2026-11-26",
+    "2026-11-27",
+    "2026-11-28",
+    "2026-11-29"
+   ]
   },
   {
    "titulo": "David Garrett en el Municipal de Santiago",
