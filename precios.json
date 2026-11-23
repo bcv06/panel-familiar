@@ -1,34 +1,34 @@
 {
- "actualizado": "2026-11-06T13:00:00+00:00",
+ "actualizado": "2026-11-23T21:36:19+00:00",
  "estado": {
   "jumbo": {
    "ok": true,
    "encontrados": 16
   },
   "lider": {
-   "ok": true,
-   "encontrados": 14
+   "ok": false,
+   "encontrados": 0
   },
   "santa": {
    "ok": true,
-   "encontrados": 13
+   "encontrados": 11
   },
   "unimarc": {
-   "ok": true,
-   "encontrados": 16
+   "ok": false,
+   "encontrados": 0
   },
   "tottus": {
-   "ok": true,
-   "encontrados": 14
+   "ok": false,
+   "encontrados": 0
   }
  },
  "precios": {
   "palta": {
    "jumbo": {
-    "precio": 3690,
+    "precio": 3990,
     "nombre": "Palta Hass Malla 1 kg",
     "url": "https://www.jumbo.cl/palta-hass-jumbo-malla-1-kg/p",
-    "fecha": "2026-11-06T13:00:00+00:00"
+    "fecha": "2026-11-23T21:36:19+00:00"
    },
    "lider": {
     "precio": 2857,
@@ -40,7 +40,7 @@
     "precio": 3590,
     "nombre": "Palta Hass Malla 1 kg",
     "url": "https://www.santaisabel.cl/palta-hass-malla-1-kg/p",
-    "fecha": "2026-11-06T13:00:00+00:00"
+    "fecha": "2026-11-23T21:36:19+00:00"
    },
    "unimarc": {
     "precio": 3490,
@@ -58,9 +58,9 @@
   "platano": {
    "jumbo": {
     "precio": 1450,
-    "nombre": "Plátano Extra Granel",
+    "nombre": "Plátano Extra Granel (1 a 2 un. Aprox)",
     "url": "https://www.jumbo.cl/platano-granel/p",
-    "fecha": "2026-11-06T13:00:00+00:00"
+    "fecha": "2026-11-23T21:36:19+00:00"
    },
    "lider": {
     "precio": 1450,
@@ -70,9 +70,9 @@
    },
    "santa": {
     "precio": 1490,
-    "nombre": "Plátano Extra Granel",
+    "nombre": "Plátano Extra Granel (1 a 2 un. Aprox)",
     "url": "https://www.santaisabel.cl/platano-granel/p",
-    "fecha": "2026-11-06T13:00:00+00:00"
+    "fecha": "2026-11-23T21:36:19+00:00"
    },
    "unimarc": {
     "precio": 1490,
@@ -89,10 +89,10 @@
   },
   "manzana": {
    "jumbo": {
-    "precio": 1990,
+    "precio": 2290,
     "nombre": "Manzana Pink Lady Bolsa 1 kg",
     "url": "https://www.jumbo.cl/manzana-pink-lady-bolsa-1-kilo/p",
-    "fecha": "2026-11-06T13:00:00+00:00"
+    "fecha": "2026-11-23T21:36:19+00:00"
    },
    "lider": {
     "precio": 2190,
@@ -101,10 +101,10 @@
     "fecha": "2026-11-06T13:00:00+00:00"
    },
    "santa": {
-    "precio": 1890,
-    "nombre": "Manzana Fuji Bolsa 1 kg",
-    "url": "https://www.santaisabel.cl/manzana-fuji-bolsa-1kg-1842209/p",
-    "fecha": "2026-11-06T13:00:00+00:00"
+    "precio": 2190,
+    "nombre": "Manzana Pink Lady Bolsa 1 kg",
+    "url": "https://www.santaisabel.cl/manzana-pink-lady-bolsa-1-kg-932863/p",
+    "fecha": "2026-11-23T21:36:19+00:00"
    },
    "unimarc": {
     "precio": 1990,
@@ -121,10 +121,10 @@
   },
   "naranja": {
    "jumbo": {
-    "precio": 1245,
+    "precio": 1845,
     "nombre": "Naranja Malla 2 kg",
     "url": "https://www.jumbo.cl/naranja-2-kg/p",
-    "fecha": "2026-11-06T13:00:00+00:00"
+    "fecha": "2026-11-23T21:36:19+00:00"
    },
    "lider": {
     "precio": 1745,
@@ -136,7 +136,7 @@
     "precio": 1795,
     "nombre": "Naranja Malla 2 kg",
     "url": "https://www.santaisabel.cl/naranja-2-kg/p",
-    "fecha": "2026-11-06T13:00:00+00:00"
+    "fecha": "2026-11-23T21:36:19+00:00"
    },
    "unimarc": {
     "precio": 1295,
@@ -156,7 +156,7 @@
     "precio": 1590,
     "nombre": "Limón Malla 1 kg",
     "url": "https://www.jumbo.cl/limon-jumbo-malla-1-kg/p",
-    "fecha": "2026-11-06T13:00:00+00:00"
+    "fecha": "2026-11-23T21:36:19+00:00"
    },
    "lider": {
     "precio": 1590,
@@ -168,7 +168,7 @@
     "precio": 1550,
     "nombre": "Limón Malla 1 kg",
     "url": "https://www.santaisabel.cl/limon-jumbo-malla-1-kg/p",
-    "fecha": "2026-11-06T13:00:00+00:00"
+    "fecha": "2026-11-23T21:36:19+00:00"
    },
    "unimarc": {
     "precio": 1490,
@@ -188,7 +188,7 @@
     "precio": 8967,
     "nombre": "Frutilla Pote 300 g",
     "url": "https://www.jumbo.cl/frutilla-hortifrut-pote-300-g-2/p",
-    "fecha": "2026-11-06T13:00:00+00:00"
+    "fecha": "2026-11-23T21:36:19+00:00"
    },
    "lider": {
     "precio": 6667,
@@ -205,10 +205,10 @@
   },
   "cereza": {
    "jumbo": {
-    "precio": 4990,
+    "precio": 6990,
     "nombre": "Cereza Exportación Granel",
     "url": "https://www.jumbo.cl/cereza-granel-2/p",
-    "fecha": "2026-11-06T13:00:00+00:00"
+    "fecha": "2026-11-23T21:36:19+00:00"
    },
    "unimarc": {
     "precio": 4796,
@@ -225,10 +225,10 @@
   },
   "kiwi": {
    "jumbo": {
-    "precio": 4290,
+    "precio": 4390,
     "nombre": "Kiwi Exportación Granel",
     "url": "https://www.jumbo.cl/kiwi-granel/p",
-    "fecha": "2026-11-06T13:00:00+00:00"
+    "fecha": "2026-11-23T21:36:19+00:00"
    },
    "lider": {
     "precio": 4190,
@@ -252,9 +252,9 @@
   "tomate": {
    "jumbo": {
     "precio": 2090,
-    "nombre": "Tomate Larga Vida Granel",
+    "nombre": "Tomate Larga Vida Granel (1 a 2 un. Aprox)",
     "url": "https://www.jumbo.cl/tomate-larga-vida-granel/p",
-    "fecha": "2026-11-06T13:00:00+00:00"
+    "fecha": "2026-11-23T21:36:19+00:00"
    },
    "lider": {
     "precio": 2090,
@@ -264,9 +264,9 @@
    },
    "santa": {
     "precio": 1990,
-    "nombre": "Tomate Larga Vida Malla 1 kg",
-    "url": "https://www.santaisabel.cl/tomate-malla-1-kg/p",
-    "fecha": "2026-11-06T13:00:00+00:00"
+    "nombre": "Tomate Larga Vida Granel (1 a 2 un. Aprox)",
+    "url": "https://www.santaisabel.cl/tomate-larga-vida-granel/p",
+    "fecha": "2026-11-23T21:36:19+00:00"
    },
    "unimarc": {
     "precio": 2090,
@@ -283,10 +283,10 @@
   },
   "lechuga": {
    "jumbo": {
-    "precio": 1190,
-    "nombre": "Lechuga Crespa Verde Bolsa",
-    "url": "https://www.jumbo.cl/lechuga-cres-verde-2039357/p",
-    "fecha": "2026-11-06T13:00:00+00:00"
+    "precio": 1000,
+    "nombre": "Lechuga Costina Feria Orgánica 1 un.",
+    "url": "https://www.jumbo.cl/lechuga-costina-feria-organica-un-2050914/p",
+    "fecha": "2026-11-23T21:36:19+00:00"
    },
    "lider": {
     "precio": 1245,
@@ -295,10 +295,10 @@
     "fecha": "2026-11-06T13:00:00+00:00"
    },
    "santa": {
-    "precio": 1345,
-    "nombre": "Lechuga Escarola Bandeja 2 un.",
-    "url": "https://www.santaisabel.cl/lechuga-escarola-jumbo-2-unid/p",
-    "fecha": "2026-11-06T13:00:00+00:00"
+    "precio": 1390,
+    "nombre": "Lechuga Escarola 1 un.",
+    "url": "https://www.santaisabel.cl/lechuga-escarola-unid/p",
+    "fecha": "2026-11-23T21:36:19+00:00"
    },
    "unimarc": {
     "precio": 1163,
@@ -316,9 +316,9 @@
   "cebolla": {
    "jumbo": {
     "precio": 1990,
-    "nombre": "Cebolla Granel",
+    "nombre": "Cebolla Granel (1 a 2 un. Aprox)",
     "url": "https://www.jumbo.cl/cebolla-granel/p",
-    "fecha": "2026-11-06T13:00:00+00:00"
+    "fecha": "2026-11-23T21:36:19+00:00"
    },
    "lider": {
     "precio": 1790,
@@ -328,9 +328,9 @@
    },
    "santa": {
     "precio": 1950,
-    "nombre": "Cebolla Granel",
+    "nombre": "Cebolla Granel (1 a 2 un. Aprox)",
     "url": "https://www.santaisabel.cl/cebolla-granel/p",
-    "fecha": "2026-11-06T13:00:00+00:00"
+    "fecha": "2026-11-23T21:36:19+00:00"
    },
    "unimarc": {
     "precio": 2050,
@@ -347,10 +347,10 @@
   },
   "papa": {
    "jumbo": {
-    "precio": 1725,
-    "nombre": "Papa Malla 2 kg",
-    "url": "https://www.jumbo.cl/papas-jumbo-malla-2-kg/p",
-    "fecha": "2026-11-06T13:00:00+00:00"
+    "precio": 1798,
+    "nombre": "Papa Malla 5 kg",
+    "url": "https://www.jumbo.cl/papas-jumbo-malla-5-kg/p",
+    "fecha": "2026-11-23T21:36:19+00:00"
    },
    "lider": {
     "precio": 1845,
@@ -362,7 +362,7 @@
     "precio": 1975,
     "nombre": "Papa Malla 2 kg",
     "url": "https://www.santaisabel.cl/papas-malla-2-kg/p",
-    "fecha": "2026-11-06T13:00:00+00:00"
+    "fecha": "2026-11-23T21:36:19+00:00"
    },
    "unimarc": {
     "precio": 1745,
@@ -379,16 +379,10 @@
   },
   "zanahoria": {
    "jumbo": {
-    "precio": 1250,
-    "nombre": "Zanahoria Granel",
-    "url": "https://www.jumbo.cl/zanahoria-jumbo-granel/p",
-    "fecha": "2026-11-06T13:00:00+00:00"
-   },
-   "santa": {
-    "precio": 1450,
+    "precio": 1590,
     "nombre": "Zanahoria Bolsa 1 kg",
-    "url": "https://www.santaisabel.cl/zanahoria-1-kg/p",
-    "fecha": "2026-11-06T13:00:00+00:00"
+    "url": "https://www.jumbo.cl/zanahoria-jumbo-1-kg/p",
+    "fecha": "2026-11-23T21:36:19+00:00"
    },
    "unimarc": {
     "precio": 1590,
@@ -405,10 +399,10 @@
   },
   "zapallo": {
    "jumbo": {
-    "precio": 850,
+    "precio": 890,
     "nombre": "Zapallo Italiano 1 un.",
     "url": "https://www.jumbo.cl/zapallo-italiano-jumbo-unid/p",
-    "fecha": "2026-11-06T13:00:00+00:00"
+    "fecha": "2026-11-23T21:36:19+00:00"
    },
    "lider": {
     "precio": 890,
@@ -420,7 +414,7 @@
     "precio": 950,
     "nombre": "Zapallo Italiano 1 un.",
     "url": "https://www.santaisabel.cl/zapallo-italiano-unid/p",
-    "fecha": "2026-11-06T13:00:00+00:00"
+    "fecha": "2026-11-23T21:36:19+00:00"
    },
    "unimarc": {
     "precio": 950,
@@ -440,7 +434,7 @@
     "precio": 850,
     "nombre": "Pepino Ensalada 1 un.",
     "url": "https://www.jumbo.cl/pepino-ensalada-jumbo-unid/p",
-    "fecha": "2026-11-06T13:00:00+00:00"
+    "fecha": "2026-11-23T21:36:19+00:00"
    },
    "lider": {
     "precio": 850,
@@ -449,10 +443,10 @@
     "fecha": "2026-11-06T13:00:00+00:00"
    },
    "santa": {
-    "precio": 950,
+    "precio": 840,
     "nombre": "Pepino Ensalada 1 un.",
     "url": "https://www.santaisabel.cl/pepino-ensalada-jumbo-unid/p",
-    "fecha": "2026-11-06T13:00:00+00:00"
+    "fecha": "2026-11-23T21:36:19+00:00"
    },
    "unimarc": {
     "precio": 890,
@@ -466,18 +460,12 @@
     "precio": 1590,
     "nombre": "Brócoli Films 1 un.",
     "url": "https://www.jumbo.cl/brocoli-jumbo-unid/p",
-    "fecha": "2026-11-06T13:00:00+00:00"
+    "fecha": "2026-11-23T21:36:19+00:00"
    },
    "lider": {
     "precio": 1590,
     "nombre": "Brócoli 1 un.",
     "url": "https://super.lider.cl/ip/verduras/00780408600001",
-    "fecha": "2026-11-06T13:00:00+00:00"
-   },
-   "santa": {
-    "precio": 1490,
-    "nombre": "Brócoli Films 1 un.",
-    "url": "https://www.santaisabel.cl/brocoli-unid/p",
     "fecha": "2026-11-06T13:00:00+00:00"
    },
    "unimarc": {
