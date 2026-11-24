@@ -1,33 +1,6 @@
 {
- "actualizado": "2026-11-23T21:56:42+00:00",
+ "actualizado": "2026-11-24T20:33:02+00:00",
  "eventos": [
-  {
-   "titulo": "Salomé de Richard Strauss | 2025",
-   "tipo": "opera",
-   "genero": "Ópera",
-   "lugar": "Teatro Municipal de Santiago",
-   "fechas": [
-    "2026-11-23T17:00",
-    "2026-11-25T18:00",
-    "2026-11-27T18:00",
-    "2026-11-29T17:00"
-   ],
-   "url": "https://municipal.cl/espectaculos/salome-2025/",
-   "fuente": "Teatro Municipal"
-  },
-  {
-   "titulo": "Elektra de Richard Strauss | 2026",
-   "tipo": "opera",
-   "genero": "Ópera",
-   "lugar": "Teatro Municipal de Santiago",
-   "fechas": [
-    "2026-11-23T18:00",
-    "2026-11-26T18:00",
-    "2026-11-29T17:00"
-   ],
-   "url": "https://municipal.cl/espectaculos/elektra-de-richard-strauss-2026/",
-   "fuente": "Teatro Municipal"
-  },
   {
    "titulo": "Concierto gratuito: «Tinta fresca»",
    "tipo": "concierto",
@@ -52,6 +25,19 @@
    ]
   },
   {
+   "titulo": "Salomé de Richard Strauss | 2025",
+   "tipo": "opera",
+   "genero": "Ópera",
+   "lugar": "Teatro Municipal de Santiago",
+   "fechas": [
+    "2026-11-25T18:00",
+    "2026-11-27T18:00",
+    "2026-11-29T17:00"
+   ],
+   "url": "https://municipal.cl/espectaculos/salome-2025/",
+   "fuente": "Teatro Municipal"
+  },
+  {
    "titulo": "Comienzo",
    "tipo": "teatro",
    "genero": "Teatro",
@@ -64,6 +50,18 @@
     "2026-11-28",
     "2026-11-29"
    ]
+  },
+  {
+   "titulo": "Elektra de Richard Strauss | 2026",
+   "tipo": "opera",
+   "genero": "Ópera",
+   "lugar": "Teatro Municipal de Santiago",
+   "fechas": [
+    "2026-11-26T18:00",
+    "2026-11-29T17:00"
+   ],
+   "url": "https://municipal.cl/espectaculos/elektra-de-richard-strauss-2026/",
+   "fuente": "Teatro Municipal"
   },
   {
    "titulo": "David Garrett en el Municipal de Santiago",
@@ -392,17 +390,6 @@
    "fuente": "Teatro Municipal"
   },
   {
-   "titulo": "Caribe Music Fest",
-   "tipo": "musica",
-   "genero": "Festival",
-   "lugar": "Santander Arena, Santiago Centro",
-   "url": "https://www.puntoticket.com/caribe-music-fest-2026",
-   "fuente": "Puntoticket",
-   "fechas": [
-    "2026-12-21"
-   ]
-  },
-  {
    "titulo": "El arcoíris y las flores – Escuela de Ballet de Santiago",
    "tipo": "ballet",
    "genero": "Ballet y danza",
@@ -570,17 +557,6 @@
    ]
   },
   {
-   "titulo": "El Vallenato que Enamora",
-   "tipo": "musica",
-   "genero": "Vallenato",
-   "lugar": "Santander Arena, Santiago Centro",
-   "url": "https://www.puntoticket.com/el-vallenato-que-enamora",
-   "fuente": "Puntoticket",
-   "fechas": [
-    "2027-02-12"
-   ]
-  },
-  {
    "titulo": "Lali + Miranda! - BOM [ BAILAR O MORIR TOUR ]",
    "tipo": "musica",
    "genero": "Pop",
@@ -589,6 +565,17 @@
    "fuente": "Puntoticket",
    "fechas": [
     "2027-02-14"
+   ]
+  },
+  {
+   "titulo": "Lp",
+   "tipo": "musica",
+   "genero": "Alternativa",
+   "lugar": "Teatro Caupolicán, Santiago Centro",
+   "url": "https://www.puntoticket.com/lp-2027",
+   "fuente": "Puntoticket",
+   "fechas": [
+    "2027-02-28"
    ]
   },
   {
