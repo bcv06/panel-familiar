@@ -1,17 +1,6 @@
 {
- "actualizado": "2026-11-24T20:33:02+00:00",
+ "actualizado": "2026-11-25T19:49:01+00:00",
  "eventos": [
-  {
-   "titulo": "Concierto gratuito: «Tinta fresca»",
-   "tipo": "concierto",
-   "genero": "Conciertos y recitales",
-   "lugar": "Teatro Municipal de Santiago",
-   "fechas": [
-    "2026-11-24T19:00"
-   ],
-   "url": "https://municipal.cl/espectaculos/concierto-gratuito-tinta-fresca-2026/",
-   "fuente": "Teatro Municipal"
-  },
   {
    "titulo": "Alexisonfire - Performs Crisis In Full",
    "tipo": "musica",
@@ -199,17 +188,6 @@
    "fuente": "Teatro Municipal"
   },
   {
-   "titulo": "Deep Purple",
-   "tipo": "musica",
-   "genero": "Hard Rock",
-   "lugar": "Santander Arena, Santiago Centro",
-   "url": "https://www.puntoticket.com/deep-purple",
-   "fuente": "Puntoticket",
-   "fechas": [
-    "2026-12-08"
-   ]
-  },
-  {
    "titulo": "Concierto «Queen sinfónico»",
    "tipo": "concierto",
    "genero": "Conciertos y recitales",
@@ -241,6 +219,18 @@
    "fechas": [
     "2026-12-11",
     "2026-12-12"
+   ]
+  },
+  {
+   "titulo": "Katseye - EL GRAN CONCIERTO, TRIBUTE EXPERIENCE TOUR",
+   "tipo": "musica",
+   "genero": "Pop",
+   "lugar": "Teatro Coliseo, Santiago Centro",
+   "url": "https://www.puntoticket.com/katseye-el-gran-concierto-tribute-experience-tour",
+   "fuente": "Puntoticket",
+   "fechas": [
+    "2026-12-12",
+    "2026-12-13"
    ]
   },
   {
@@ -280,17 +270,6 @@
    ],
    "url": "https://municipal.cl/espectaculos/asmik-grigorian-2026/",
    "fuente": "Teatro Municipal"
-  },
-  {
-   "titulo": "Katseye - EL GRAN CONCIERTO, TRIBUTE EXPERIENCE TOUR",
-   "tipo": "musica",
-   "genero": "Pop",
-   "lugar": "Teatro Coliseo, Santiago Centro",
-   "url": "https://www.puntoticket.com/katseye-el-gran-concierto-tribute-experience-tour",
-   "fuente": "Puntoticket",
-   "fechas": [
-    "2026-12-13"
-   ]
   },
   {
    "titulo": "Concierto familiar: Canta, baila y aprende junto a Peces Sexteto",
@@ -565,6 +544,17 @@
    "fuente": "Puntoticket",
    "fechas": [
     "2027-02-14"
+   ]
+  },
+  {
+   "titulo": "Laura Pausini - Yo Canto World Tour 2027",
+   "tipo": "musica",
+   "genero": "Romántico",
+   "lugar": "Claro Arena, Las Condes",
+   "url": "https://www.puntoticket.com/laura-pausini",
+   "fuente": "Puntoticket",
+   "fechas": [
+    "2027-02-23"
    ]
   },
   {
