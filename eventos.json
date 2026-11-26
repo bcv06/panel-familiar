@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-25T19:49:01+00:00",
+ "actualizado": "2026-11-26T19:27:46+00:00",
  "eventos": [
   {
    "titulo": "Alexisonfire - Performs Crisis In Full",
@@ -9,22 +9,8 @@
    "url": "https://www.puntoticket.com/aof-coliseo",
    "fuente": "Puntoticket",
    "fechas": [
-    "2026-11-25",
     "2026-11-26"
    ]
-  },
-  {
-   "titulo": "Salomé de Richard Strauss | 2025",
-   "tipo": "opera",
-   "genero": "Ópera",
-   "lugar": "Teatro Municipal de Santiago",
-   "fechas": [
-    "2026-11-25T18:00",
-    "2026-11-27T18:00",
-    "2026-11-29T17:00"
-   ],
-   "url": "https://municipal.cl/espectaculos/salome-2025/",
-   "fuente": "Teatro Municipal"
   },
   {
    "titulo": "Comienzo",
@@ -75,6 +61,18 @@
    "fuente": "Teatro Municipal"
   },
   {
+   "titulo": "Salomé de Richard Strauss | 2025",
+   "tipo": "opera",
+   "genero": "Ópera",
+   "lugar": "Teatro Municipal de Santiago",
+   "fechas": [
+    "2026-11-27T18:00",
+    "2026-11-29T17:00"
+   ],
+   "url": "https://municipal.cl/espectaculos/salome-2025/",
+   "fuente": "Teatro Municipal"
+  },
+  {
    "titulo": "Festi Ranch - El Gran Carenazo",
    "tipo": "musica",
    "genero": "Rancheras",
@@ -83,6 +81,18 @@
    "fuente": "Puntoticket",
    "fechas": [
     "2026-11-28"
+   ]
+  },
+  {
+   "titulo": "ChileTerror Fest II - 2026",
+   "tipo": "musica",
+   "genero": "Festival",
+   "lugar": "Teatro Caupolicán, Santiago Centro",
+   "url": "https://www.puntoticket.com/evento/chileterror-2-teatro-caupolican-nov-2026",
+   "fuente": "Puntoticket",
+   "fechas": [
+    "2026-11-28",
+    "2026-11-29"
    ]
   },
   {
@@ -578,6 +588,17 @@
    "fechas": [
     "2027-03-02"
    ]
+  },
+  {
+   "titulo": "Reflejos de macondo | 2026",
+   "tipo": "concierto",
+   "genero": "Grandes estrellas",
+   "lugar": "Teatro Municipal de Santiago",
+   "fechas": [
+    "2027-03-06T19:00"
+   ],
+   "url": "https://municipal.cl/espectaculos/reflejos-de-macondo-2026/",
+   "fuente": "Teatro Municipal"
   }
  ]
 }
