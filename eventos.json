@@ -1,17 +1,6 @@
 {
- "actualizado": "2026-11-26T19:27:46+00:00",
+ "actualizado": "2026-11-27T19:24:14+00:00",
  "eventos": [
-  {
-   "titulo": "Alexisonfire - Performs Crisis In Full",
-   "tipo": "musica",
-   "genero": "Hardcore",
-   "lugar": "Teatro Coliseo, Santiago Centro",
-   "url": "https://www.puntoticket.com/aof-coliseo",
-   "fuente": "Puntoticket",
-   "fechas": [
-    "2026-11-26"
-   ]
-  },
   {
    "titulo": "Comienzo",
    "tipo": "teatro",
@@ -20,34 +9,10 @@
    "url": "https://www.puntoticket.com/evento/comienzo-teatro-zoco-oct-nov-2026",
    "fuente": "Puntoticket",
    "fechas": [
-    "2026-11-26",
     "2026-11-27",
     "2026-11-28",
     "2026-11-29"
    ]
-  },
-  {
-   "titulo": "Elektra de Richard Strauss | 2026",
-   "tipo": "opera",
-   "genero": "Ópera",
-   "lugar": "Teatro Municipal de Santiago",
-   "fechas": [
-    "2026-11-26T18:00",
-    "2026-11-29T17:00"
-   ],
-   "url": "https://municipal.cl/espectaculos/elektra-de-richard-strauss-2026/",
-   "fuente": "Teatro Municipal"
-  },
-  {
-   "titulo": "David Garrett en el Municipal de Santiago",
-   "tipo": "concierto",
-   "genero": "Conciertos y recitales",
-   "lugar": "Teatro Municipal de Santiago",
-   "fechas": [
-    "2026-11-26T21:00"
-   ],
-   "url": "https://municipal.cl/espectaculos/david-garrett-en-el-municipal-de-santiago/",
-   "fuente": "Teatro Municipal"
   },
   {
    "titulo": "20° Festival Fernando Rosas",
@@ -118,6 +83,17 @@
    ]
   },
   {
+   "titulo": "Elektra de Richard Strauss | 2026",
+   "tipo": "opera",
+   "genero": "Ópera",
+   "lugar": "Teatro Municipal de Santiago",
+   "fechas": [
+    "2026-11-29T17:00"
+   ],
+   "url": "https://municipal.cl/espectaculos/elektra-de-richard-strauss-2026/",
+   "fuente": "Teatro Municipal"
+  },
+  {
    "titulo": "Illapu",
    "tipo": "musica",
    "genero": "Música",
@@ -165,7 +141,7 @@
   {
    "titulo": "C7: Réquiem de guerra | 2026",
    "tipo": "concierto",
-   "genero": "Conciertos y recitales",
+   "genero": "BlackFriday",
    "lugar": "Teatro Municipal de Santiago",
    "fechas": [
     "2026-12-05T19:00",
@@ -200,24 +176,13 @@
   {
    "titulo": "Concierto «Queen sinfónico»",
    "tipo": "concierto",
-   "genero": "Conciertos y recitales",
+   "genero": "BlackFriday",
    "lugar": "Teatro Municipal de Santiago",
    "fechas": [
     "2026-12-08T19:00"
    ],
    "url": "https://municipal.cl/espectaculos/concierto-queen-sinfonico-2026/",
    "fuente": "Teatro Municipal"
-  },
-  {
-   "titulo": "Javiera Mena",
-   "tipo": "musica",
-   "genero": "Electro Pop",
-   "lugar": "Santander Arena, Santiago Centro",
-   "url": "https://www.puntoticket.com/javiera-mena-2026",
-   "fuente": "Puntoticket",
-   "fechas": [
-    "2026-12-09"
-   ]
   },
   {
    "titulo": "Macha y El Bloque Depresivo",
@@ -273,7 +238,7 @@
   {
    "titulo": "Asmik Grigorian | 2026",
    "tipo": "concierto",
-   "genero": "Grandes estrellas",
+   "genero": "BlackFriday",
    "lugar": "Teatro Municipal de Santiago",
    "fechas": [
     "2026-12-12T19:00"
@@ -315,7 +280,7 @@
   {
    "titulo": "Concierto: «El universo de John Williams»",
    "tipo": "concierto",
-   "genero": "Conciertos y recitales",
+   "genero": "BlackFriday",
    "lugar": "Teatro Municipal de Santiago",
    "fechas": [
     "2026-12-13T20:00"
@@ -379,6 +344,17 @@
    "fuente": "Teatro Municipal"
   },
   {
+   "titulo": "Caribe Music Fest",
+   "tipo": "musica",
+   "genero": "Festival",
+   "lugar": "Santander Arena, Santiago Centro",
+   "url": "https://www.puntoticket.com/caribe-music-fest-2026",
+   "fuente": "Puntoticket",
+   "fechas": [
+    "2026-12-21"
+   ]
+  },
+  {
    "titulo": "El arcoíris y las flores – Escuela de Ballet de Santiago",
    "tipo": "ballet",
    "genero": "Ballet y danza",
@@ -398,6 +374,17 @@
     "2026-12-22T19:00"
    ],
    "url": "https://municipal.cl/espectaculos/gala-suite-de-danses-escuela-de-ballet/",
+   "fuente": "Teatro Municipal"
+  },
+  {
+   "titulo": "Gala «Colores de España» – Escuela de Ballet de Santiago",
+   "tipo": "ballet",
+   "genero": "Ballet y danza",
+   "lugar": "Teatro Municipal de Santiago",
+   "fechas": [
+    "2026-12-29T19:00"
+   ],
+   "url": "https://municipal.cl/espectaculos/gala-colores-de-espana-escuela-de-ballet-del-municipal-de-santiago/",
    "fuente": "Teatro Municipal"
   },
   {
@@ -557,7 +544,7 @@
    ]
   },
   {
-   "titulo": "Laura Pausini - Yo Canto World Tour 2027",
+   "titulo": "Laura Pausini - Yo canto World Tour 2027",
    "tipo": "musica",
    "genero": "Romántico",
    "lugar": "Claro Arena, Las Condes",
@@ -590,12 +577,24 @@
    ]
   },
   {
+   "titulo": "Epica - Rhapsody - The Final Shows",
+   "tipo": "musica",
+   "genero": "Rock",
+   "lugar": "Santander Arena, Santiago Centro",
+   "url": "https://www.puntoticket.com/epica-rhapsody",
+   "fuente": "Puntoticket",
+   "fechas": [
+    "2027-03-06"
+   ]
+  },
+  {
    "titulo": "Reflejos de macondo | 2026",
    "tipo": "concierto",
    "genero": "Grandes estrellas",
    "lugar": "Teatro Municipal de Santiago",
    "fechas": [
-    "2027-03-06T19:00"
+    "2027-03-06T19:00",
+    "2027-03-07T19:00"
    ],
    "url": "https://municipal.cl/espectaculos/reflejos-de-macondo-2026/",
    "fuente": "Teatro Municipal"
