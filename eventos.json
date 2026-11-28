@@ -1,42 +1,6 @@
 {
- "actualizado": "2026-11-27T19:24:14+00:00",
+ "actualizado": "2026-11-28T18:00:05+00:00",
  "eventos": [
-  {
-   "titulo": "Comienzo",
-   "tipo": "teatro",
-   "genero": "Teatro",
-   "lugar": "Teatro Zoco, Lo Barnechea",
-   "url": "https://www.puntoticket.com/evento/comienzo-teatro-zoco-oct-nov-2026",
-   "fuente": "Puntoticket",
-   "fechas": [
-    "2026-11-27",
-    "2026-11-28",
-    "2026-11-29"
-   ]
-  },
-  {
-   "titulo": "20° Festival Fernando Rosas",
-   "tipo": "concierto",
-   "genero": "Conciertos y recitales",
-   "lugar": "Teatro Municipal de Santiago",
-   "fechas": [
-    "2026-11-27T15:00"
-   ],
-   "url": "https://municipal.cl/espectaculos/xx-festival-fernando-rosas-2026/",
-   "fuente": "Teatro Municipal"
-  },
-  {
-   "titulo": "Salomé de Richard Strauss | 2025",
-   "tipo": "opera",
-   "genero": "Ópera",
-   "lugar": "Teatro Municipal de Santiago",
-   "fechas": [
-    "2026-11-27T18:00",
-    "2026-11-29T17:00"
-   ],
-   "url": "https://municipal.cl/espectaculos/salome-2025/",
-   "fuente": "Teatro Municipal"
-  },
   {
    "titulo": "Festi Ranch - El Gran Carenazo",
    "tipo": "musica",
@@ -54,6 +18,18 @@
    "genero": "Festival",
    "lugar": "Teatro Caupolicán, Santiago Centro",
    "url": "https://www.puntoticket.com/evento/chileterror-2-teatro-caupolican-nov-2026",
+   "fuente": "Puntoticket",
+   "fechas": [
+    "2026-11-28",
+    "2026-11-29"
+   ]
+  },
+  {
+   "titulo": "Comienzo",
+   "tipo": "teatro",
+   "genero": "Teatro",
+   "lugar": "Teatro Zoco, Lo Barnechea",
+   "url": "https://www.puntoticket.com/evento/comienzo-teatro-zoco-oct-nov-2026",
    "fuente": "Puntoticket",
    "fechas": [
     "2026-11-28",
@@ -91,6 +67,17 @@
     "2026-11-29T17:00"
    ],
    "url": "https://municipal.cl/espectaculos/elektra-de-richard-strauss-2026/",
+   "fuente": "Teatro Municipal"
+  },
+  {
+   "titulo": "Salomé de Richard Strauss | 2025",
+   "tipo": "opera",
+   "genero": "Ópera",
+   "lugar": "Teatro Municipal de Santiago",
+   "fechas": [
+    "2026-11-29T17:00"
+   ],
+   "url": "https://municipal.cl/espectaculos/salome-2025/",
    "fuente": "Teatro Municipal"
   },
   {
@@ -183,6 +170,17 @@
    ],
    "url": "https://municipal.cl/espectaculos/concierto-queen-sinfonico-2026/",
    "fuente": "Teatro Municipal"
+  },
+  {
+   "titulo": "Javiera Mena",
+   "tipo": "musica",
+   "genero": "Electro Pop",
+   "lugar": "Santander Arena, Santiago Centro",
+   "url": "https://www.puntoticket.com/javiera-mena-2026",
+   "fuente": "Puntoticket",
+   "fechas": [
+    "2026-12-09"
+   ]
   },
   {
    "titulo": "Macha y El Bloque Depresivo",
@@ -563,17 +561,6 @@
    "fuente": "Puntoticket",
    "fechas": [
     "2027-02-28"
-   ]
-  },
-  {
-   "titulo": "Sin Bandera - Escenas Tour 2027",
-   "tipo": "musica",
-   "genero": "Romántico",
-   "lugar": "Santander Arena, Santiago Centro",
-   "url": "https://www.puntoticket.com/sin-bandera",
-   "fuente": "Puntoticket",
-   "fechas": [
-    "2027-03-02"
    ]
   },
   {
